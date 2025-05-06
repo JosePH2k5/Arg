@@ -1,4 +1,32 @@
-FILE SIN SERVICE....
+FILE SIN SERVICE ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -20,6 +48,8 @@ FILE SIN SERVICE....
 
 
 #EXTM3U
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
