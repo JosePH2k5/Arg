@@ -94,17 +94,17 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-#EXTINF:-1 ch-number="105" tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/JzvWVcS/5522598607348.png" group-title="Deportes", ESPN 5
+#EXTINF:-1 ch-number="105" tvg-id="ESPN 5 HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png" group-title="Deportes", ESPN 5
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTINF:-1 ch-number="106" tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/ZYmDHdM/15905984073899.png" group-title="Deportes", ESPN 6
+#EXTINF:-1 ch-number="106" tvg-id="ESPN 6 HD.uy" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png" group-title="Deportes", ESPN 6
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTINF:-1 ch-number="107" tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/W2mSmQb/12041360073463.png" group-title="Deportes", ESPN 7
+#EXTINF:-1 ch-number="107" tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.imgur.com/KjXO02I.png" group-title="Deportes", ESPN 7
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
