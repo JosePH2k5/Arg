@@ -47,7 +47,7 @@ FILE SIN SERVICE ...
 
 
 
-#EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 
 
