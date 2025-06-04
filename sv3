@@ -424,7 +424,7 @@ https://CSC-ARR-EDGE01.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd?|refere
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
-#EXTINF:-1 group-title="Cine, Novelas y Series", ch-number="315" tvg-id="Europa Europa HD.uy" tvg-name="EUROPA EUROPA" audio-track="1" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png", Europa Europa
+#EXTINF:-1 group-title="Cine, Novelas y Series" ch-number="315" tvg-id="Europa Europa HD.uy" tvg-name="EUROPA EUROPA" audio-track="1" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png", Europa Europa
 https://CSC-ARR-EDGE01.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
