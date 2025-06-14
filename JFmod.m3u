@@ -615,6 +615,8 @@ http://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=http
 
 nacionales, aire y noticias
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
 #EXTINF:-1 group-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png"group-title="CANALES SENSA"  tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" group-title="CANALES SENSA", A24
@@ -1396,7 +1398,6 @@ https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://p
 #KODIPROP:inputstream.adaptive.license_key=7b1e631ba089c345f38a0bc04acf459b:1b26ad9df48567b9bdc0216e7711b85e
 #EXTINF:-1 group-title="CANALES SENSA" ch-number="493" tvg-id="[CNSTMAR] Canal Santa Maria" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2281/CH_LOGO/800/542/0/0/37747274077987.png", Radio María TV
 https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 
 
 
