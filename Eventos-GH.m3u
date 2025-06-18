@@ -40,12 +40,6 @@ http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000340/index_fk.mpd?|Origin="android_mobile.directvgo.com"
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MX7IdkGfW6OAFz2ocwEFGw","k":"XHMy0i69qWfTvpS7tItqoA"},{"kty":"oct","kid":"2fpUAF8jWTuKXqOmEHFShQ","k":"-XaoXpDCDtXAEtMdItLzBQ"},{"kty":"oct","kid":"ItJt3qMYUXKOl-XWSqRbPA","k":"jgRYrPueW6s442qDz1Grfg"},{"kty":"oct","kid":"FMZGiq1WUlmjICNXeseaOQ","k":"UWOKYb-DsroGJTgx2YZ2LA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="350" tvg-id="514#Cinelatino" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1734227721685" group-title="Cine, Novelas y Series", Cine Latino
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000106/index_fk.mpd?|Origin="android_mobile.directvgo.com"
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png" group-title="SPORTMAX" ch-number="1" type="channel",SPORTMAX AR EVENTOS 1
@@ -53,6 +47,8 @@ https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed1/SA_LIVE_hls_enc/8f9ec7e3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png" group-title="SPORTMAX" ch-number="2" type="channel",SPORTMAX AR EVENTOS 2
 https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed2/SA_LIVE_hls_enc/6f2ee266-1c1e-48ad-a5aa-e977dc33740e_output_0.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Deportes" tvg-id="310#DSPORTS (URU)", tvg-logo="https://i.ibb.co/hfdWd82/Direc-TV-Sports.png", Dsports
