@@ -48,7 +48,11 @@ http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD
 http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000106/index_fk.mpd?|Origin="android_mobile.directvgo.com"
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png" group-title="SPORTMAX" ch-number="1" type="channel",SPORTMAX AR EVENTOS 1
+https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed1/SA_LIVE_hls_enc/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png" group-title="SPORTMAX" ch-number="2" type="channel",SPORTMAX AR EVENTOS 2
+https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed2/SA_LIVE_hls_enc/6f2ee266-1c1e-48ad-a5aa-e977dc33740e_output_0.m3u8
 
 
 #EXTINF:-1 group-title="Deportes" tvg-id="310#DSPORTS (URU)", tvg-logo="https://i.ibb.co/hfdWd82/Direc-TV-Sports.png", Dsports
