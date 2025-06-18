@@ -77,3 +77,27 @@ http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD
 http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000139/index_fk.mpd?|origin=android_mobile.directvgo.com
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB8Tgvz/flow-music-1.png" group-title="FLOW" ch-number="1" type="channel",FLOW MUSIC 1
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WD5sH68/flow-music-2.png" group-title="FLOW" ch-number="2" type="channel",FLOW MUSIC 2
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCT7PTYL/flow-music-3.png" group-title="FLOW" ch-number="3" type="channel",FLOW MUSIC 3
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWFKyX/52687301125549.png" group-title="FLOW" ch-number="4" type="channel",FLOW EVENTOS 
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWFKyX/52687301125549.png" group-title="FLOW" ch-number="5" type="channel",FLOW EVENTOS 2 
+https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd
