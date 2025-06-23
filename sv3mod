@@ -45,32 +45,32 @@ https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="🇦🇷 FLOW"  ,📰  C5N
-https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="🇦🇷 FLOW" ,📰  Canal 26
-https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="🇦🇷 FLOW"  ,📰  Cronica  
-https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/1081/CH_LOGO/60/40/0/0/30427098073644.png" group-title="🇦🇷 FLOW" ,📰  La Nación +
-https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/8398/CH_LOGO/60/40/0/0/33946248076158.png" group-title="🇦🇷 FLOW" ,📰 IP Noticias
-https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/70/CH_LOGO/60/40/0/0/22986115071847.png" group-title="🇦🇷 FLOW"  ,📰  TN
-https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd?|Origin=https://portal.app.flow.com.ar/
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
