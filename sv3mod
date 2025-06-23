@@ -149,7 +149,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/64/CH_LOGO/60/40/0/0/731751480726.png" group-title="🇦🇷 FLOW" ,#️⃣ Ciudad Magazine
-https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
+https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd?|Origin=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
