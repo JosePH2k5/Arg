@@ -23,26 +23,7 @@ https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed2/SA_LIVE_hls_enc/6f2ee266
 
 
 
-#EXTINF:-1 group-title="Deportes" tvg-id="310#DSPORTS (URU)", tvg-logo="https://i.ibb.co/hfdWd82/Direc-TV-Sports.png", Dsports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000021/index_fk.mpd?|origin=android_mobile.directvgo.com
 
-#EXTINF:-1 group-title="Deportes" tvg-id="612#DSPORTS 2", tvg-logo="https://i.ibb.co/kQrwnCT/Direc-TV-Sports-2.png", Dsports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000128/index_fk.mpd?|origin=android_mobile.directvgo.com
-
-#EXTINF:-1 group-title="Deportes" tvg-id="613#DSPORTS +", tvg-logo="https://i.ibb.co/qmtPGQb/Direc-TV-Sports-Plus.png", Dsports +
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiJjNDk4ZjJhOTc4YzIzZjI0MGIxOGZiMTcxZmQxNTBjOCIsCiJrZXlfaWQiOiI3NWJiMjQ2ZTExMDY0MTU3YjViYWIyMmE3OTlkMjk4OSIKfSwgewoia2V5IjoiNzQwMGE5ZjkwNWYxNzJkNWQ3NGQ3ZGM0NDA3MjRjOGUiLAoia2V5X2lkIjoiZjE5YzNhOGM2MzhkNTJjMmFiNzdiOTU2NmJjYjI5OTYiCn0KXQ==
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/VHgrYzAyL0tWY056WVFOcXZMaGhENkwwWlFSdjdLREt6aFUrTGlJMnowOD0=/CH0100000000139/index_fk.mpd?|origin=android_mobile.directvgo.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
