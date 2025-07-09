@@ -1,7 +1,9 @@
 {
   "provider": {
     "epg": "https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz",
-        
+    "user_message": "📺 Paga tu suscripción y consulte tu vencimiento. Instale desde https://cplus.lat/portal  🚀",
+    "vod_library": [
+      "https://cplus.lat/Teleplay/Juridico/Listas/Premium/mediateca.json"
     ],
     "base64": "url,drm_key,drm_url"
   },
@@ -9836,86 +9838,94 @@
     },
     {
       "category": "San Juan",
-      "name": "CANAL 8 SAN JUAN",
-      "url": "aHR0cHM6Ly9jbm5zYW5qdWFuLmNvbTo5OTk5L2xpdmUvdGVsZXNvbC9wbGF5bGlzdC5tM3U4",
-      "epg_name": "CANAL Telesol",
-      "icon": "https://www.telesoldiario.com/_rv20221116-01/web/assets/imgs/logos/telesol_w.png"
+      "name": "Canal Telesol",
+      "url": "aHR0cHM6Ly9jbm5zYW5qdWFuLmNvbTo5OTk5L2xpdmUvdGVsZXNvbC9jaHVua3MubTN1OD9uaW1ibGVzZXNzaW9uaWQ9NzEyODMxNg",
+      "epg_name": "Canal Telesol",
+      "icon": "https://i.ibb.co/mbGNw0r/tlslogo.png"
     },
     {
       "category": "San Juan",
-      "name": "ALBARDON TV SAN JUAN",
+      "name": "Canal 8 San Juan",
+      "url": "aHR0cDovLzQ1LjE3Mi4xOS4xNTU6MTc5OTMvTGl2ZS8yNjQ2OGUxZjZiNmEwYTZhYzAxNDY3NjAxYzQxM2UyMS9jYW5hbDhzYW5qdWFuXzQ4MC5tM3U4",
+      "epg_id": "Canal8SanJuan.ar",
+      "epg_name": "Canal 8 San Juan",
+      "icon": "https://i.ibb.co/jZ5hwZpg/8sanjuan.png"
+    },
+    {
+      "category": "San Juan",
+      "name": "Albardón TV San Juan",
       "url": "aHR0cHM6Ly92ZDAxLnN0cmVhbWluZ2hkLm5ldC5hcjozODE0L2xpdmUvYWxiYXJkb250dmxpdmUubTN1OA",
-      "epg_name": "ALBARDON TV SAN JUAN",
+      "epg_name": "Albardón TV San Juan",
       "icon": "https://i.ibb.co/T9nVYpS/Whats-App-Image-2025-02-13-at-08-11-21.jpg"
     },
     {
       "category": "San Juan",
-      "name": "CANAL 4 SAN JUAN",
+      "name": "Canal 4 San Juan",
       "url": "aHR0cDovL3N0cmVhbWxvdi5hbHNvbG5ldC5jb20vY2FuYWw0c2FuanVhbi9saXZlL3BsYXlsaXN0Lm0zdTg",
-      "epg_name": "CANAL 4 SAN JUAN",
+      "epg_name": "Canal 4 San Juan",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"
     },
     {
       "category": "San Juan",
-      "name": "ZONDA TV SAN JUAN",
+      "name": "Zonda TV San Juan",
       "url": "aHR0cHM6Ly9jbm5zYW5qdWFuLmNvbTo5OTk5L2xpdmUvem9uZGEvcGxheWxpc3QubTN1OA",
-      "epg_name": "ZONDA TV SAN JUAN",
+      "epg_name": "Zonda TV San Juan",
       "icon": "https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "category": "San Juan",
-      "name": "BLU HD SAN JUAN",
+      "name": "Blu HD San Juan",
       "url": "aHR0cHM6Ly92aXZvLnNvbHVtZWRpYS5jb206MTkzNjAvYmx1bWVkaW9zL2JsdW1lZGlvcy5tM3U4",
-      "epg_name": "BLU HD SAN JUAN",
+      "epg_name": "Blu HD San Juan",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU"
     },
     {
       "category": "San Juan",
-      "name": "XAMA UNSJ",
+      "name": "Xama UNSJ",
       "url": "aHR0cHM6Ly9zcnMudW5zai5lZHUuYXIvbGl2ZS94YW1hL3hhbWEubTN1OD9obHNfY3R4PTg2NjUyMjV0",
-      "epg_name": "XAMA UNSJ",
+      "epg_name": "Xama UNSJ",
       "icon": "http://www.radiosargentina.com.ar/png/VI--XAMA.png"
     },
     {
       "category": "San Juan",
-      "name": "CANAL 40 CAUCETE",
+      "name": "Canal 40 Caucete",
       "url": "aHR0cHM6Ly9jYW5hbHNqLmtvem93LmNvbS9jYW5hbDQwL3RyYWNrcy12MWExL21vbm8ubTN1OA",
-      "epg_name": "CANAL 40 CAUCETE",
+      "epg_name": "Canal 40 Caucete",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXhlgSw5SACbz1uBeSQbxF6SMUAjRcoHjTa2X7mv4qWAGhUXwtzP8MHwGrhEQxw3vBR8&usqp=CAU"
     },
     {
       "category": "San Juan",
-      "name": "Señal de Vida",
+      "name": "Señal de vida",
       "url": "aHR0cHM6Ly9yYWRpb3NvbmxpbmUuZ3J1cG9rYWlyb3MubmV0LmFyLzkwMjYvOw",
-      "epg_name": "SEÑAL DE VIDA",
+      "epg_name": "Señal de vida",
       "icon": "https://señaldevida.com.ar/wp-content/uploads/logo2024-2.png"
     },
     {
       "category": "San Juan",
-      "name": "FM DEL SOL 91.9 SAN JUAN",
+      "name": "FM del Sol 91.9 San Juan",
       "url": "aHR0cHM6Ly9zdHJlYW15ZXMuYWxzb2xuZXQuY29tL2ZtZGVsc29sdHYvbGl2ZS9wbGF5bGlzdC5tM3U4",
-      "epg_name": "FM DEL SOL 91.9 SAN JUAN",
+      "epg_name": "FM del Sol 91.9 San Juan",
       "icon": "http://www.diariodelsol.com.ar/images/2.jpeg"
     },
     {
       "category": "San Juan",
-      "name": "RADIO ACTIVA 88.9 FM SAN JUAN",
+      "name": "Radio Activa 88.9 FM San Juan",
       "url": "aHR0cHM6Ly9zdG12aWRlbzYubGl2ZWNhc3R2LmNvbS9yYWRpb2FjdGl2YXNhbmp1YW4vcmFkaW9hY3RpdmFzYW5qdWFuL3BsYXlsaXN0Lm0zdTg",
-      "epg_name": "RADIO ACTIVA 88.9 FM SAN JUAN",
+      "epg_name": "Radio Activa 88.9 FM San Juan",
       "icon": "https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo1-qvcz17sarc8mp5ikc82wnbekikpiir7mvpns79xwvw.png"
     },
     {
       "category": "San Juan",
-      "name": "DIARIO DE SAN JUAN",
+      "name": "Diario de San Juan",
       "url": "aHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9yYWRpb2xhcmVkL3JhZGlvbGFyZWQubTN1OA",
-      "epg_name": "DIARIO DE SAN JUAN",
+      "epg_name": "Diario de San Juan",
       "icon": "https://yt3.googleusercontent.com/ytc/AOPolaSyKD_hqwTr-iUyjoZlzruEu9Du1QMU6Y2KY9lH1Q=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "category": "San Juan",
-      "name": "ONE TV SAN JUAN",
+      "name": "One TV San Juan",
       "url": "aHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9vbmV0di9vbmV0di5tM3U4",
-      "epg_name": "ONE TV SAN JUAN",
+      "epg_name": "One TV San Juan",
       "icon": "https://onetv.com.ar/wp-content/uploads/2024/01/29.4-transformed.png"
     },
     {
@@ -9971,7 +9981,7 @@
       "category": "Regionales",
       "name": "Canal Siete Bah\\u00eda Blanca",
       "url": "aHR0cHM6Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0NhbmFsN19CYWhpYV9CbGFuY2EvU0FfTGl2ZV9kYXNoX2VuY18yQS9DYW5hbDdfQmFoaWFfQmxhbmNhLm1wZA",
-      "epg_name": "Canal Siete Bah\\u00eda Blanca",
+      "epg_name": "Canal Siete Bahia Blanca",
       "icon": "https://static.tvar.io/imagenes/canal7bahia.png"
     },
     {
@@ -10055,7 +10065,7 @@
     {
       "category": "Regionales",
       "name": "El Siete TV",
-      "url": "aHR0cHM6Ly9tLm10ZC5sbGMvaXB0di1xdWVyeS5tM3U4P3VybD1odHRwOi8vd3d3LnlvdXR1YmUuY29tL2MvQ2FuYWxTaWV0ZU1lbmRvemExL2xpdmU",
+      "url": "aHR0cDovL2ludGVyY29uZWN0LmRkbnMubmV0OjE3MDkzL0xpdmUvZGQyZmNiNTBhMGM5NTUzOWViNzk4YzdjOThlYTBmODcvY2FuYWw3bXphXzQ4MC5tM3U4",
       "epg_name": "El Siete TV",
       "icon": "https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg"
     },
@@ -10247,13 +10257,6 @@
       "url": "aHR0cDovL2NvbmluZm8ubmV0OjE5MzUvMTNtYXhoZC9saXZlMTNtYXh0dm51ZXZvXzcyMHAvY2h1bmtsaXN0X3cyNDc1NDA5NDYubTN1OA",
       "epg_name": "13 Max",
       "icon": "https://static.tvar.io/imagenes/13maxdigital.png"
-    },
-    {
-      "category": "Regionales",
-      "name": "Canal Siete Bahia Blanca",
-      "url": "aHR0cHM6Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0NhbmFsN19CYWhpYV9CbGFuY2EvU0FfTGl2ZV9kYXNoX2VuY18yQS9DYW5hbDdfQmFoaWFfQmxhbmNhLm1wZA",
-      "epg_name": "Canal Siete Bahia Blanca",
-      "icon": "https://static.tvar.io/imagenes/canal7bahia.png"
     },
     {
       "category": "Provinciales",
@@ -12625,6 +12628,18 @@
       "name": "Canal 9 Mendoza",
       "url": "aHR0cHM6Ly91bmxpbWl0ZWQxLWJ1ZW5vc2FpcmVzLmRwcy5saXZlL3RlbGV2aWRhYXIvdGVsZXZpZGFhci5zbWlsL3BsYXlsaXN0Lm0zdTg",
       "icon": "https://i.ibb.co/dJ5g2RnJ/2025-06-27-13-21-13.png"
+    },
+    {
+      "category": "Mendoza",
+      "name": "Canal 7 Mendoza",
+      "url": "aHR0cDovL2ludGVyY29uZWN0LmRkbnMubmV0OjE3MDkzL0xpdmUvMjY0NjhlMWY2YjZhMGE2YWMwMTQ2NzYwMWM0MTNlMjEvY2FuYWw3bXphXzQ4MC5tM3U4",
+      "icon": "https://i.ibb.co/35wqgtBS/elsietetv.png"
+    },
+    {
+      "category": "Mendoza",
+      "name": "Canal 7 Mendoza OP2",
+      "url": "aHR0cDovLzQ1LjE3Mi4xOS4xNTU6MTc5OTMvTGl2ZS8yNjQ2OGUxZjZiNmEwYTZhYzAxNDY3NjAxYzQxM2UyMS9jYW5hbDdtemFfNDgwLm0zdTg",
+      "icon": "https://i.ibb.co/35wqgtBS/elsietetv.png"
     },
     {
       "category": "Mendoza",
@@ -15885,6 +15900,36 @@
       "epg_id": "Sic.br",
       "epg_name": "SIC Internacional SD²",
       "icon": "https://www.imgscc.top/logos/SIC.png"
+    },
+    {
+      "category": "Eventos Flow HD",
+      "name": "FLOW EVENTOS",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0V2ZW50b3MxSEQvU0FfTGl2ZV9kYXNoX2VuYy9FdmVudG9zMUhELm1wZA",
+      "epg_id": "FLOWEVENTOS.tv",
+      "epg_name": "FLOW EVENTOS",
+      "icon": "https://i.postimg.cc/yNtWFKyX/52687301125549.png",
+      "drm_type": "clearkey",
+      "drm_key": "NWM4NmUyMzczMTdjMjIzMWFjMWJjMTMwZTk5NWZhZDY6ZGNhY2Y3YjIzOWVlMDNkZjNjNjljYTExZGJjZGU0ZWI"
+    },
+    {
+      "category": "Eventos Flow HD",
+      "name": "FLOW EVENTOS 2",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M2ZWRzL0V2ZW50b3NfMl9IRC9TQV9MaXZlX2Rhc2hfZW5jL0V2ZW50b3NfMl9IRC5tcGQ",
+      "epg_id": "FLOWEVENTOS2.tv",
+      "epg_name": "FLOW EVENTOS 2",
+      "icon": "https://i.postimg.cc/yNtWFKyX/52687301125549.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZTU0ZTllYTg3YTYzNDY1OGZiYmEwZTM4MGFhNzAxYTc6NGU0ODZkMjVkN2QwZTdkMTMxNzQzYjI4NTk2M2M2NDM"
+    },
+    {
+      "category": "Eventos Flow HD",
+      "name": "EVENTOS 3 AR",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0V2ZW50b3NfMy9TQV9MaXZlX2Rhc2hfZW5jL0V2ZW50b3NfMy5tcGQ",
+      "epg_id": "EVENTOS3AR.tv",
+      "epg_name": "EVENTOS 3 AR",
+      "icon": "https://i.ibb.co/02hhVcv/evento330hd.png",
+      "drm_type": "clearkey",
+      "drm_key": "OGIyZmRmNWEzNWQwMWE2YWM4ODhiN2U4YjFhMmRkYWQ6MmMwODhiNDJlNzFkYmExYzU3MmU3ZjA0ZDI5MzQ0MzA"
     }
   ]
 }
