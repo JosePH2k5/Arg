@@ -1,1 +1,2899 @@
-. 
+{
+  "provider": {
+    "epg": "https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz",
+    "vod_library": "https://cplus.lat/Teleplay/Juridico/Listas/Premium/mediateca.json",
+    "base64": "url,drm_key,drm_url"
+  },
+  "categories": {
+    "Argentina Noticias": {
+      "name": "Argentina Noticias",
+      "icon": "https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png"
+    },
+    "Mundo": {
+      "name": "Mundo",
+      "icon": "https://i.ibb.co/8Dk30jqm/5a24ae703bbe99a17dc037857d282221-removebg-preview.png"
+    },
+    "Argentina": {
+      "name": "Argentina",
+      "icon": "https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png"
+    },
+    "Uruguay": {
+      "name": "Uruguay",
+      "icon": "https://i.ibb.co/CKwCttCV/d62c82e6c2f5791412357e93cf70941e-removebg-preview.png"
+    },
+    "Deportes": {
+      "name": "Deportes",
+      "icon": "https://i.ibb.co/C6vJCdZ/pelota-argentina.png"
+    },
+    "Infantil": {
+      "name": "Infantil",
+      "icon": "https://i.ibb.co/6R6DV7MT/2025-05-20-17-21-14-removebg-preview.png"
+    },
+    "Cine, Novelas y Series": {
+      "name": "Cine, Novelas y Series",
+      "icon": "https://i.ibb.co/DKYqS59/CINES-Y-SERIES.png"
+    },
+    "Variedades": {
+      "name": "Variedades",
+      "icon": "https://i.ibb.co/whqbpYfn/DEPORTES.png"
+    },
+    "Música": {
+      "name": "Música",
+      "icon": "https://i.ibb.co/nZ98pkN/2144f4961968c865a41d4c0f4b9ee241.jpg"
+    },
+    "Religión": {
+      "name": "Religión",
+      "icon": "https://i.ibb.co/4Zjy31P3/8167b5814df62873a2ebd2d922045c7c-removebg-preview.png"
+    },
+    "Provinciales": {
+      "name": "Provinciales",
+      "icon": "https://i.ibb.co/TDDTM756/45533ae32b74fce71b8573ba362bf515-removebg-preview.png"
+    },
+    "Radios": {
+      "name": "Radios",
+      "icon": "https://i.ibb.co/74GXd3k/radio-17868327.png"
+    },
+    "Paraguay": {
+      "name": "Paraguay",
+      "icon": "https://i.ibb.co/6JBnhbmv/banderin-py.png"
+    },
+    "Pack Fútbol Argentino": {
+      "name": "Pack Fútbol Argentino",
+      "icon": "https://i.ibb.co/mr431YMn/cb1d9815a43b39f3f9471d2eedf57be1.jpg"
+    },
+    "🚩Informaciones": {
+      "name": "🚩Informaciones",
+      "icon": "https://i.ibb.co/39GwjcBm/REVENDEDORA.png"
+    },
+    "Pack Hbo": {
+      "name": "Pack Hbo",
+      "icon": "https://i.ibb.co/RpFmm7Sf/hbomax.png"
+    },
+    "Pack Universal": {
+      "name": "Pack Universal",
+      "icon": "https://i.ibb.co/G4gfbLXz/de4vli5-0dc7797b-7eda-4760-8bda-8b01c583df96.png"
+    },
+    "Playlists Embebidas": {
+      "name": "Playlists Embebidas"
+    }
+  },
+  "channels": [
+    {
+      "category": "Argentina Noticias",
+      "name": "América",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9MaXZlX2Rhc2hfZW5jL0FtZXJpY2FUVi5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 14,
+      "epg_id": "America.uy",
+      "epg_name": "America.uy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OGVhMjM1Y2UwODI2NDA4YjIyMWM0OTgxMTVhOWI2MmQ6N2FhOTI2NmVkOTFlYTQ1MTA0ODMzNzAwMjlkZmNmNDU"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "A24",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0FtZXJpY2EyNC9TQV9MaXZlX2Rhc2hfZW5jL0FtZXJpY2EyNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 24,
+      "epg_id": "America 24.uy",
+      "epg_name": "America 24.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png",
+      "drm_type": "clearkey",
+      "drm_key": "M2IxYjAyN2RkMDExYWYyMGZkOTk1NmMxNmRjMDg0ZmI6NDVmNzVhYWNmMDY1OTNjOWI2OTNmZTQyN2M2N2U1Yjg"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "C5N",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0M1Ti9TQV9MaXZlX2Rhc2hfZW5jL0M1Ti5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 25,
+      "epg_id": "C5N.uy",
+      "epg_name": "C5N.uy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MDUwZGY1YzZlNzhjNzc0ZTc4YzNlOTllZWY4YTFiMjk6MGU0MTQxZDZhYjIxYTM2Y2JjNGRhNzc3YWIzMDk2ZDQ"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "La Nación +",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jL0xhX05hY2lvbi5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 30,
+      "epg_id": "La Nacion.uy",
+      "epg_name": "La Nacion.uy",
+      "icon": "https://git.io/J35ry",
+      "drm_type": "clearkey",
+      "drm_key": "ZjRlYWRlN2JiYzM5YjI1NDAyYWNmYTMwMWJiYWQwNGE6YTc0ZDFkZjQyMzVhNzQ4NzgzMjdhYThkNTNmZjI4M2M"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "Canal 26",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M2ZWRzLzI2X1RWX0hEL1NBX0xpdmVfZGFzaF9lbmMvMjZfVFZfSEQubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 26,
+      "epg_id": "Canal 26.uy",
+      "epg_name": "Canal 26.uy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZTMyYWFhNGI2NzQzMGIzYjUxYmUxZWZjZTVhNzRhYzU6YWQ2MGM1ZTFkMzc4YTk3MjcxYmY4Njg4ZjA5NGQwOTI"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "TN",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL1RvZG9Ob3RpY2lhcy9TQV9MaXZlX2Rhc2hfZW5jL1RvZG9Ob3RpY2lhcy5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 31,
+      "epg_id": "TN HD.uy",
+      "epg_name": "TN HD.uy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "N2NlYjFjZDA2MjJjZDdlODhmY2RjOTlmZTNhNTVkZTY6OTUxNjM3MDkzZDQxYzczODhhMWVmM2Y2MjBjZmVhMjE"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "Crónica",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfZW5jL0Nyb25pY2FUVi5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 28,
+      "epg_id": "Cronica TV.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/800/542/0/0/90907313073986.png",
+      "drm_type": "clearkey",
+      "drm_key": "NzQ1ZTdhYmNjOTBkNDFhYjcwNmIyYWMyZjQzNzFkYTM6NTBhY2Q5ZDE5ZDEzNjFjYjRhOGExM2E4NjdiZGMzNTI"
+    },
+    {
+      "category": "Argentina Noticias",
+      "name": "Chacra TV",
+      "url": "aHR0cHM6Ly9jc2MtbmRjLWVkZ2UwMS5zZW5zYS5jb20uYXIvYnBrLXR2L0NoYWNyYVRWL2RlZmF1bHQvaW5kZXgubXBkP3xSZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4wJk9yaWdpbj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIv",
+      "number": 19,
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/800/542/0/0/44952019073840.png",
+      "drm_type": "clearkey",
+      "drm_key": "NjhlNzc4ODM4OWQxOGJmYTQ5ZGFmODEyYzU4MWEzYjA6YjRlZjE2ZjMxMzI1ZTI0ZDE2MzkwZWE3NGIwODg1MTI"
+    },
+    {
+      "category": "Mundo",
+      "name": "Latam Rural",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL0xhdGFtX1J1cmFsL1NBX0xpdmVfZGFzaF9lbmNfQy9MYXRhbV9SdXJhbC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 615,
+      "epg_id": "CanalRural.lat",
+      "epg_name": "Latam Rural",
+      "icon": "https://dl.dropbox.com/scl/fi/kdj2xc9eagwc620spbpee/rurallatam.jpg?rlkey=8uusg0pp1ddsc9g4vu3jir4zm&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "YWJkZmQ4MzgyNGU5YmE1ODVmNzRmYjcyYzY0N2FhNGY6OTk2N2UwNmUzOTg5Mzk5OGQxNjcxNDk4OGQ5ZDg3ZjE"
+    },
+    {
+      "category": "Argentina",
+      "name": "Argentinísima Satelital",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9BcmdlbnRpbmlzaW1hL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 1,
+      "epg_id": "Argentinísima Satelital.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/4027/CH_LOGO/800/542/0/0/480102480757.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZWQyNWI1ZGI2MDMzMGU3ZWExNGUzYmYwMDdkYjA3OTc6OWIzNzhkNTlmNzhlMDRlNjk3Y2E5NThiMWRkNjljYTc"
+    },
+    {
+      "category": "Argentina",
+      "name": "Canal Rural",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhbmFsUnVyYWwvbGl2ZV9kYXNoX2NsZC9DYW5hbFJ1cmFsLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 3,
+      "epg_id": "Canal Rural.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/800/542/0/0/446602280711.png",
+      "drm_type": "clearkey",
+      "drm_key": "MjRlY2FlZDIwMjI1YTM2N2FkOGZkZTliNmU4MjZjZDY6MTRkYmZjMDA3YTNmNTY0OGQyYzMwMDc1ZjAzN2E4MzA"
+    },
+    {
+      "category": "Argentina",
+      "name": "TV Pública",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RWUHVibGljYS9saXZlX2Rhc2hfY2xkL1RWUHVibGljYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 7,
+      "epg_id": "Television Pública.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/800/542/0/0/26428256071569.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmIxNzUzODgxMGYxZGQ0NDg1ZjE3NGRjYzIwNDg3MmM6M2Q1Yjk3Mzc3MjQzM2NlMDdjODk5OWFhNjU5ZWE0OGM"
+    },
+    {
+      "category": "Argentina",
+      "name": "El nueve",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhbmFsOS9saXZlX2Rhc2hfY2xkL0NhbmFsOS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 9,
+      "epg_id": "Canal 9.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/800/542/0/0/47205269072808.png",
+      "drm_type": "clearkey",
+      "drm_key": "N2MxZjUwZTNmNTEyMTZiZGQxZWZjYzk5ZDNhMjcyMTc6MzQ0MWM5MzAyNzdkODI0NDAyYWFmZWU0NDZiYThmOTA"
+    },
+    {
+      "category": "Argentina",
+      "name": "Telefé Internacional",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1RlbGVmZV9JbnRlcm5hY2lvbmFsL1NBX0xpdmVfZGFzaF9lbmMvVGVsZWZlX0ludGVybmFjaW9uYWwubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 11,
+      "epg_id": "Telefe HD.uy",
+      "epg_name": "Telefe HD.uy",
+      "icon": "https://i.ibb.co/Xk2ZFyC/telefe-internacional.png",
+      "drm_type": "clearkey",
+      "drm_key": "Y2MwYWJjYzg0ZWMzODBjZmMxOTJiOTZkMzJhYmFkMjM6OWI3ODI1Mzg1Yjg5ZmY4MmQwMTkwOWE0YWU0MDQ4Nzc"
+    },
+    {
+      "category": "Argentina",
+      "name": "Telefé",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RlbGVmZS9saXZlX2Rhc2hfY2xkL1RlbGVmZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 12,
+      "epg_id": "telefe",
+      "epg_name": "Telefe.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png",
+      "drm_type": "clearkey",
+      "drm_key": "OWJiNTRmY2NmZmFkZGQzODkxNmU4NWMwOGRlOThjYzk6ZDA2ZjUwOWM0MThlYjZmMWIyZmMyYjc2NjQ0NTMyOGI"
+    },
+    {
+      "category": "Argentina",
+      "name": "El Trece Internacional",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M2ZWRzL0FydGVhcl9JbnRlcm5hY2lvbmFsL1NBX0xpdmVfZGFzaF9lbmMvQXJ0ZWFyX0ludGVybmFjaW9uYWwubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 13,
+      "epg_id": "784#El Trece Internacional",
+      "epg_name": "784#El Trece Internacional",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NWJkNDY5ZjhiZjI2OGQ1ZDE0OGMzOTcxYzdjMjNmY2E6OWFmOTgwODBkMjI4NDZmZGYyOTg4YjhiYTllYzRhZGQ"
+    },
+    {
+      "category": "Argentina",
+      "name": "El Trece",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhbmFsMTMvbGl2ZV9kYXNoX2NsZC9DYW5hbDEzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 14,
+      "epg_id": "el13",
+      "epg_name": "Canal 13.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/800/542/0/0/42552730073067.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZTdiMDVjN2E3MzdiN2YwYTVkNTcxYjkxZGVhYTI2OTc6NDA3OWFjMjA1YjU0NGIxYzI5NGVlMTU2ODkwNmZmNTg"
+    },
+    {
+      "category": "Argentina",
+      "name": "El Destape",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9FbERlc3RhcGUvZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 42,
+      "epg_id": "El Destape",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/800/542/0/0/49015720078226.png",
+      "drm_type": "clearkey",
+      "drm_key": "YWYwNTY2YzUwZTczM2MzMTFiZGZhNjczNmE5NWNlNTA6ZTRkZmQxMjk5MzA5N2IzYzM1YWQ0NzU2MmQ2MWI0Y2U"
+    },
+    {
+      "category": "Argentina",
+      "name": "Net TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL05FVFRWL2xpdmVfZGFzaF9jbGQvTkVUVFYubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 16,
+      "epg_id": "Net TV.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/800/542/0/0/30595173074646.png",
+      "drm_type": "clearkey",
+      "drm_key": "YzNkYjY5MWM3ZTQ1MjBiN2IyZGM4MjJhYjkwNTU0NWE6ZWUyYTFlYmU2ZmNjMmVmM2IwMTk0M2NkZDkyNTZjYzY"
+    },
+    {
+      "category": "Argentina",
+      "name": "Bravo TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9CcmF2b1RWL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 17,
+      "epg_id": "126#Bravo TV (ARG)",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2561/CH_LOGO/800/542/0/0/23653274077154.png",
+      "drm_type": "clearkey",
+      "drm_key": "MWQ3ZDE2MDk0NzdkMGIwZDUxYTViN2QxNTM5ZTY1ZWI6OTBiNjFiM2ZhNTc3ZWFiN2I1M2VmNmYxY2FlYjgyYmY"
+    },
+    {
+      "category": "Argentina",
+      "name": "Chacra TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9DaGFjcmFUVi9kZWZhdWx0L2luZGV4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 20,
+      "epg_id": "Chacra TV.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/800/542/0/0/44952019073840.png",
+      "drm_type": "clearkey",
+      "drm_key": "NjhlNzc4ODM4OWQxOGJmYTQ5ZGFmODEyYzU4MWEzYjA6YjRlZjE2ZjMxMzI1ZTI0ZDE2MzkwZWE3NGIwODg1MTI"
+    },
+    {
+      "category": "Argentina",
+      "name": "Ciudad Magazine",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NpdWRhZE1hZ2F6aW5lL2xpdmVfZGFzaF9jbGQvQ2l1ZGFkTWFnYXppbmUubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 23,
+      "epg_id": "Ciudad Magazine.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/800/542/0/0/917545880726.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDE0NzcxYzRhOTFkYjgwZTk2ZjAzOGVjMGFjZmMzMDQ6ZTM3ZmE2OTYyNjU5MjNhNjA4MmRlMTU3NjYyYWFiNzM"
+    },
+    {
+      "category": "Argentina",
+      "name": "Volver",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ZvbHZlci9saXZlX2Rhc2hfY2xkL1ZvbHZlci5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 24,
+      "epg_id": "Volver.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/800/542/0/0/371516250745.png",
+      "drm_type": "clearkey",
+      "drm_key": "N2E3ZWNmMGMzNDY5NWRkNGUyNTM1NzRiMGI4NTQ0MWU6ZTY1MThlMGI1ZGZhNWUwZGMyNjhhNWIxNjEwNjgxMWI"
+    },
+    {
+      "category": "Argentina",
+      "name": "A24",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0EyNC9saXZlX2Rhc2hfY2xkL0EyNC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 25,
+      "epg_id": "America 24.uy",
+      "epg_name": "AME24",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZWQ5MzZjZDVjYjU5ZWVlZTgzYWRkYWZiNDQ2NjYyYTQ6ZGQ0YjdhZWIyYmMwMDA0Njg4ODMyOTZlN2FlNGEwOWI"
+    },
+    {
+      "category": "Argentina",
+      "name": "C5N",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0M1Ti9saXZlX2Rhc2hfY2xkL0M1Ti5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 26,
+      "epg_id": "C5N.uy",
+      "epg_name": "C5NOT",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/800/542/0/0/8952752307709.png",
+      "drm_type": "clearkey",
+      "drm_key": "YmQxNzY3ZmUzNTU0ZjEyODUyMjJiNTYxMDEwNWMwZTk6ODM5ZDViMWVlYzdlYjcwZDY4YzFlMTUzMWZjMGQ2ZDQ"
+    },
+    {
+      "category": "Argentina",
+      "name": "Canal 26",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhbmFsMjYvbGl2ZV9kYXNoX2NsZC9DYW5hbDI2Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 27,
+      "epg_id": "Canal 26.uy",
+      "epg_name": "CAN26",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/800/542/0/0/34056872073.png",
+      "drm_type": "clearkey",
+      "drm_key": "YjM1YWVjYzU1NGI4NTlhOTdjZjExYjg5MjczMWFmMWY6M2E1ZGExYTdjNmE1Y2M2ZTQ4OGJkYmJiZjA5MTMyZmY"
+    },
+    {
+      "category": "Argentina",
+      "name": "Canal E",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9DYW5hbEUvZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 28,
+      "epg_id": "CANAL E",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2562/CH_LOGO/800/542/0/0/11035030078196.png",
+      "drm_type": "clearkey",
+      "drm_key": "MTg5NDIyOTA3MmNjYWMyZDBmNmExMDFkNjE4ZDAzOWQ6OWE3ZWE4NDhkZjIwMmJmMjJhYzUxYmRhNDQ4MmE0YzI"
+    },
+    {
+      "category": "Argentina",
+      "name": "Crónica",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Nyb25pY2EvbGl2ZV9kYXNoX2NsZC9Dcm9uaWNhLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 29,
+      "epg_id": "Cronica TV.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/800/542/0/0/90907313073986.png",
+      "drm_type": "clearkey",
+      "drm_key": "MTk0ZjA2ODIxODBlMTQ3Zjc5MjgwNzhkY2M3OGEwMTk6ZGRmYzA4NTQ1ZTc0YTZiZDg4NzBmMTE4OWNkMWJlYzA"
+    },
+    {
+      "category": "Argentina",
+      "name": "La Nación +",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0xhTmFjaW9uTWFzL2xpdmVfZGFzaF9jbGQvTGFOYWNpb25NYXMubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 31,
+      "epg_id": "La Nacion.uy",
+      "epg_name": "LNAC+",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/800/542/0/0/85249704073644.png",
+      "drm_type": "clearkey",
+      "drm_key": "YTAwMjAxMGI1MDY4NTQ1OTlkZmZiYjhiOTA0OGVjN2M6MTYwZWVkZjg1MjI5ZGE5MTlhN2M1ZWVjNGZiZWY4MDk"
+    },
+    {
+      "category": "Argentina",
+      "name": "TN",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROL2xpdmVfZGFzaF9jbGQvVE4ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 32,
+      "epg_id": "TN HD.uy",
+      "epg_name": "TNNOT",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png",
+      "drm_type": "clearkey",
+      "drm_key": "NGI0ZWJlM2M2OGM0Yzk1Yzc2MzkwOTZlNzZjMjMzZDA6MGM0OGNkNWUzMjk4Yjc2MmEwOTlhY2RjMDVhNTE4MmE"
+    },
+    {
+      "category": "Argentina",
+      "name": "Cine.AR",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NpbmVBUi9saXZlX2Rhc2hfY2xkL0NpbmVBUi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 33,
+      "epg_id": "CineAr.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/800/542/0/0/98997452071605.png",
+      "drm_type": "clearkey",
+      "drm_key": "MmIxZDY0M2I0MjkwOGJkYTI5MjcxMzdjZjM3NDdlMWE6OWNjZDkwNTJhOWEyOGMwNTA5Njk5NmU4MmMwODBlYjM"
+    },
+    {
+      "category": "Argentina",
+      "name": "Encuentro",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VuY3VlbnRyby9saXZlX2Rhc2hfY2xkL0VuY3VlbnRyby5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 35,
+      "epg_id": "Encuentro.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/800/542/0/0/1011215007477.png",
+      "drm_type": "clearkey",
+      "drm_key": "OWU2YmM2Y2Q5YjYwMDIzOGY4OWQ3NWZmYjAyY2I4NTI6ZjEwMjk0OWFhMTZkMWE3NDFkMGZhMzBkYzYwZjljYmQ"
+    },
+    {
+      "category": "Argentina",
+      "name": "Paka Paka",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1Bha2FQYWthL2xpdmVfZGFzaF9jbGQvUGFrYVBha2EubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 36,
+      "epg_id": "Pakapaka.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/800/542/0/0/46888977071492.png",
+      "drm_type": "clearkey",
+      "drm_key": "Yjc2N2JhYmY4NmNkOTRiYjg1NDA4NDIxM2MwZmY0N2M6MDQ4NDdjNjI5OWNkN2I0OGViZGE5MjdlOTU3YzE2N2M"
+    },
+    {
+      "category": "Uruguay",
+      "name": "TV Ciudad Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1RldmVfQ2l1ZGFkL1NBX0xpdmVfZGFzaF9lbmMvVGV2ZV9DaXVkYWQubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 61,
+      "epg_id": "TV Ciudad HD.uy",
+      "epg_name": "TV Ciudad HD.uy",
+      "icon": "https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "OWI1MzZjZDE3MTY2NDdlZTk0YzQ1ZmE0ODM2ZDI5ZDY6ZDY5MWM4OGE5NTQ0MDY2Njc0MmQxZDgxODMxODIzNDc"
+    },
+    {
+      "category": "Uruguay",
+      "name": "UCL Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0NhbmFsX1UvU0FfTGl2ZV9kYXNoX2VuY19DL0NhbmFsX1UubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 62,
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MjAyYTE5ZTQ4NzFjNDczOWE4MDEwYWE3YjI1YWYzN2Q6MDcwMTViNGNmYTA0OGEzMzUxYjgzZDYwYWVjYTVlYWQ"
+    },
+    {
+      "category": "Uruguay",
+      "name": "VTV Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1ZUVl9IRC9TQV9MaXZlX2Rhc2hfZW5jL1ZUVl9IRC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 63,
+      "epg_id": "VTV HD.uy",
+      "epg_name": "VTV HD.uy",
+      "icon": "https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1",
+      "drm_type": "clearkey",
+      "drm_url": "aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1iOTY5NjBhYTcxNWE0ZTUxYjdlOTUyZTgxYzk5YWM4ZSZrZXk9NWJiZmZjNjgwNzY0ZGJkNjNkOTBiNzc0YjNhYTBjMGE"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Canal 4 Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL0NhbmFsNF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy9DYW5hbDRfVVJVLm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 64,
+      "epg_id": "Canal 4 HD.uy",
+      "epg_name": "Canal 4 HD.uy",
+      "icon": "https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "ZGFiZWZhYWM4OTc0MjU4OTc3OGZjZmFiNzhmMDgzNTQ6ODk2ZGQ5MTQ2ODNiMDFjODA0NGZmZDM0ZDdiNjQxNmI"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Canal 5 Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1RWX05hY2lvbmFsX1V5L1NBX0xpdmVfZGFzaF9lbmMvVFZfTmFjaW9uYWxfVXkubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 65,
+      "epg_id": "Canal 5 HD.uy",
+      "epg_name": "Canal 5 HD.uy",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
+      "drm_type": "clearkey",
+      "drm_url": "aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1jNTA1MThkN2Y1OWY0YzBhYTlhMzA3OWZlMmIwMTRmZCZrZXk9OTYwMzhmNzZhMmJhMzM4NjZlYTU0ZWI0YjI2MDU3M2Y"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Canal 10 Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL0NhbmFsMTBfVVJVL1NBX0xpdmVfZGFzaF9lbmMvQ2FuYWwxMF9VUlUubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 70,
+      "epg_id": "Canal 10 HD.uy",
+      "epg_name": "Canal 10 HD.uy",
+      "icon": "https://dl.dropbox.com/scl/fi/ttrrell21rdfzeoakfbfp/canal10uy.png?rlkey=5rhflccdyhxpytvvyhn82xk6r&dl=1",
+      "drm_type": "clearkey",
+      "drm_url": "aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD04ZGQzNDc4MmQ3NTRmOGZjYjFlOGIzOGRhOWZmYWQwYiZrZXk9NmZiOTc0NjdjMGYwZWExM2Y4NmQ0MWE3MGUwMjljNTE"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Canal 12 Uruguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL0NhbmFsMTJVUlUvU0FfTGl2ZV9kYXNoX2VuYy9DYW5hbDEyVVJVLm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 72,
+      "epg_id": "La Tele HD.uy",
+      "epg_name": "La Tele HD.uy",
+      "icon": "https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png",
+      "drm_type": "clearkey",
+      "drm_url": "aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1kZmRlOWQzNWQ3NDM4YmZkZjYxZGE1ZGZhYzA1NTdjMSZrZXk9YWNiMTMzNzBjMDNhNzI1NGUyYmI5Y2M5ZDIxMjUwMTc"
+    },
+    {
+      "category": "Uruguay",
+      "name": "UCL Uruguay",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9VQ0wvZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 66,
+      "epg_id": "UCL.uy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NTc0NmRjNTdjYjFjMjZkNTI2N2QxMTZkM2Y0OWQ4NzE6ZDFkYzNhM2ExM2ZjMzk4MWMwOGEwMzc2NzA2YjJlNjE"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Uruguay | VTV",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODE0Lm0zdTg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/330px-Logo_VTV_nuevo.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Uruguay | VTV Plus",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODE1Lm0zdTg",
+      "epg_name": "Uruguay | VTV Plus",
+      "icon": "http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE17rD3WuRE-ra65BQdBdxS5KCQXQy8RW9cVgIORkiDAlAhLxgiybcB_5-zrRK0NT26Q.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Ury: PPV 1 Uruguay ᴴᴰ (Eventos en Vivo)",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODE2Lm0zdTg",
+      "epg_name": "Ury: PPV 1 Uruguay ᴴᴰ (Eventos en Vivo)",
+      "icon": "http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJLWQ5iVsBdEoUQ1emTmsUCDq_F7Mg0gEyvM6yDQjZu.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "Ury: PPV 2 Uruguay ᴴᴰ (Eventos en Vivo)",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODE3Lm0zdTg",
+      "epg_name": "Ury: PPV 2 Uruguay ᴴᴰ (Eventos en Vivo)",
+      "icon": "http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJLWQ5iVsBdEoUQ1emTmsUCDq_F7Mg0gEyvM6yDQjZu.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "VTV Plus Opción 1",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODI1Lm0zdTg",
+      "epg_name": "VTV Plus Opción 1",
+      "icon": "http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJLWQ5iVsBdEoUQ1emTmsUCDq_F7Mg0gEyvM6yDQjZu.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "VTV Plus Opción 2",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODI2Lm0zdTg",
+      "epg_name": "VTV Plus Opción 2",
+      "icon": "http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJLWQ5iVsBdEoUQ1emTmsUCDq_F7Mg0gEyvM6yDQjZu.png"
+    },
+    {
+      "category": "Uruguay",
+      "name": "VTV Plus Opción 3",
+      "url": "aHR0cDovL3ZpcC1sYXRpbi5jb20vbGl2ZS9DYW5hbGVzT1RUL0NhbmFsZXNPVFQvNDE2ODI3Lm0zdTg",
+      "epg_name": "VTV Plus Opción 3",
+      "icon": "http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJLWQ5iVsBdEoUQ1emTmsUCDq_F7Mg0gEyvM6yDQjZu.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "DeporTV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0RlcG9ydHYvbGl2ZV9kYXNoX2NsZC9EZXBvcnR2Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 100,
+      "epg_id": "DeporTV.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/800/542/0/0/13868550072195.png",
+      "drm_type": "clearkey",
+      "drm_key": "MTkwNGM0ZDg0NmE5OWU5NDA5MDMxNzRiZGJhYjc0ZjA6MDhhNGNhOTcyY2QwMzdhMWZlMDQyNTE1YzMxMGJmZTE"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE4vbGl2ZV9kYXNoX2NsZC9FU1BOLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 101,
+      "epg_id": "ESPN HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmQyNDNlYmQ3YTU3YmVhNGI0YjA1MmFlMTNmNGMwNTE6NWMxOTI1ODc5ZGU4NzNkNDNiN2MyNTkyNTkwMjUzOWI"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE4yL2xpdmVfZGFzaF9jbGQvRVNQTjIubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 102,
+      "epg_id": "ESPN 2 HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmE4YmQ2NDk2ZDI0NDQzMDFjOWQ0ZDBmZWNhOWQ3NWI6M2ZkMTk2NzcwMWJhMjg5NzcyOTE4N2I2MDA5NGMxNTg"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN 3",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE4zL2xpdmVfZGFzaF9jbGQvRVNQTjMubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 103,
+      "epg_id": "ESPN 3 HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png",
+      "drm_type": "clearkey",
+      "drm_key": "ODgzNjI1MjA1OWI3OTNhNzkxNzM4MzhkYzExODZmZjE6YWExNmY5MGU1MWNlNTY1MmRhYjkzODM0ZTQzNGNhYTg"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN 4",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE40L2xpdmVfZGFzaF9jbGQvRVNQTjQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 104,
+      "epg_id": "ESPN 4 HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDM0NjUzZDM0MTNmMjNlODcyNDlkMWZiN2U2ODM1OWE6YTBkNmI4NDlmMTdjNDMwZTljYzAyZDA3NzM5YTRlNGE"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN Premium",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE5QcmVtaXVtL2xpdmVfZGFzaF9jbGQvRVNQTlByZW1pdW0ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 108,
+      "epg_id": "FOX Sports Premium.ar",
+      "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+      "drm_type": "clearkey",
+      "drm_key": "Zjg5NDNkMTE0ZTI1MTUxYzhhZTRmNjEyMzUxZDVhNWY6N2YzNGM5YTcwYzgzNjAyMGNiYzMyNzNjNDI3ZmYyNzc"
+    },
+    {
+      "category": "Deportes",
+      "name": "TNT Sports Premium",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROVFNwb3J0cy9saXZlX2Rhc2hfY2xkL1ROVFNwb3J0cy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 109,
+      "epg_id": "TNT Sports.ar",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YzI2MzcxMDc5ZTg5MjA2ZDYzZTE0NTQ4OTNlODgxYjY6YWRhYzNjM2IzNzc0ZTQxMWQ2ZTQ5NzI0ZjdlYTBlZTM"
+    },
+    {
+      "category": "Deportes",
+      "name": "TNT Sports HD",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwYmMvaW5kZXgubTN1OA",
+      "epg_name": "TNT Sports HD",
+      "icon": "https://logo.iptveditor.com/tntsports.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "TyC Sports Argentina",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwMnMvaW5kZXgubTN1OA",
+      "epg_name": "TyC Sports HD",
+      "icon": "https://logo.iptveditor.com/tycsports.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "ESPN Premium HD",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwNzgvaW5kZXgubTN1OA",
+      "epg_name": "ESPN Premium HD",
+      "icon": "https://logo.iptveditor.com/espnpremium.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "FOX Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0ZveFNwb3J0czEvbGl2ZV9kYXNoX2NsZC9Gb3hTcG9ydHMxLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 111,
+      "epg_id": "FOX Sports HD.ar",
+      "epg_name": "FOX Sports",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MWE2MWI2NDRmZGM2ODU2OGI1YmUzZTI2MjkwNDE1NjQ6YTE2NzJjZGZiNWRlNjQ3MDcxNTExMjhmODExZGE2Njc"
+    },
+    {
+      "category": "Deportes",
+      "name": "FOX Sports 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0ZveFNwb3J0czIvbGl2ZV9kYXNoX2NsZC9Gb3hTcG9ydHMyLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 112,
+      "epg_id": "FOX Sports 2.ar",
+      "epg_name": "FOX Sports 2",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NmVjMWM1NjIwZjVjMTU1M2QzMjM4OTg4NzE0ZTcxYjI6Yjg5MTdiMTJlODUxZGZjN2JiOGEzYjgzMjM0OGIzYmU"
+    },
+    {
+      "category": "Deportes",
+      "name": "FOX Sports 3",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0ZveFNwb3J0czMvbGl2ZV9kYXNoX2NsZC9Gb3hTcG9ydHMzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 113,
+      "epg_id": "FOX Sports 3.ar",
+      "epg_name": "FOX Sports 3",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YzdmODdlNTFjNTZhODdhNTljYWI3ZWM5OGZkMDYyZGI6YzNmMGQ3ZDA2N2UzODU5MDBhMGU2ZDRjOGU0MDZhNjg"
+    },
+    {
+      "category": "Deportes",
+      "name": "TyC Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RZQ1Nwb3J0cy9saXZlX2Rhc2hfY2xkL1RZQ1Nwb3J0cy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 114,
+      "epg_id": "TYC",
+      "epg_name": "TyC Sports.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
+      "drm_type": "clearkey",
+      "drm_key": "NTNkMGNmNmMxZDQ5YzE2ZjUxODBmODZlMTg3MGIwMGY6N2ViNjc0M2I1ZjQ0YjUyYmEyN2M4ODIyOWM4YzdhZTI"
+    },
+    {
+      "category": "Deportes",
+      "name": "TYC SPORTS 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL3NlbnNhZXZlbnRvc0Qvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 115,
+      "epg_id": "TyC Sports 2.ar",
+      "epg_name": "TYC SPORTS 2",
+      "icon": "https://i.ibb.co/ZJMgxxp/tyc-sports2.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Deportes",
+      "name": "América Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0FtZXJpY2FTcG9ydHMvbGl2ZV9kYXNoX2NsZC9BbWVyaWNhU3BvcnRzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 116,
+      "epg_id": "America Sports.ar",
+      "epg_name": "América Sports",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZjlhNzBjMjk0ZWE3NTM0NmI5OTFhNjFjNTVmZjFkOGY6NzAxMmViNmNkNzUyOTk4ZWU1Y2ZiZTY4NTE3NDkxZjU"
+    },
+    {
+      "category": "Deportes",
+      "name": "Garage TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VsR2FyYWdlL2xpdmVfZGFzaF9jbGQvRWxHYXJhZ2UubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 118,
+      "epg_id": "El Garage Tv.ar",
+      "epg_name": "Garage TV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YWQxYmU1NzUyOTgwMDg1OTEwMDEwYWRiOWQ3MjUzMmQ6OGFjZmFhY2I2MDBiMzgyYmZlMTg5NjI5NjQzNTVjZTY"
+    },
+    {
+      "category": "Deportes",
+      "name": "Golf TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0dvbGZUVi9saXZlX2Rhc2hfY2xkL0dvbGZUVi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 120,
+      "epg_id": "Golf Channel.ar",
+      "epg_name": "Golf TV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmU3MWQ4MTA3ZGU5NjEzMTlmYzZhNDdkOWYxYzc5YWQ6MDIwNzFhMWM5ODQ2MzE4YzYwNDgwZDQwODZiZThlOWI"
+    },
+    {
+      "category": "Deportes",
+      "name": "PX Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvUFhTcG9ydHMvbGl2ZV9kYXNoX2NsZC9QWFNwb3J0cy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 121,
+      "epg_id": "[PXSP] PX Sports",
+      "epg_name": "PX Sports",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/800/542/0/0/70671934073582.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZTA3MGE3NDI2YjhjYjFjYWI1ZjYzOTk2YjdiZDc2Njk6MWMxNDBlMDcxNWIyNmM3MjMyOTQyYWI4N2QyMzI5NjQ"
+    },
+    {
+      "category": "Deportes",
+      "name": "Claro Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NsYXJvU3BvcnRzL2xpdmVfZGFzaF9jbGQvQ2xhcm9TcG9ydHMubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 110,
+      "epg_id": "Claro Sports HD.uy",
+      "epg_name": "Claro Sports",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Deportes",
+      "name": "DSports",
+      "url": "aHR0cDovLzM4LjIxMS4yNDIuMTI4OjgwMDEvcGxheS9hMDlzL2luZGV4Lm0zdTg",
+      "number": 124,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "DSports 2",
+      "url": "aHR0cDovLzM4LjIxMS4yNDIuMTI4OjgwMDEvcGxheS9hMDVnL2luZGV4Lm0zdTg",
+      "number": 125,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "DSports +",
+      "url": "aHR0cDovLzM4LjIxMS4yNDIuMTI4OjgwMDEvcGxheS9hMDVoL2luZGV4Lm0zdTg",
+      "number": 126,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png"
+    },
+    {
+      "category": "Infantil",
+      "name": "Baby TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvQmFieVRWL2xpdmVfZGFzaF9jbGQvQmFieVRWLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 200,
+      "epg_id": "Baby TV.uy",
+      "epg_name": "Baby TV",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png",
+      "drm_type": "clearkey",
+      "drm_key": "NWNmNmRhNzI2MmRkYjc0YzJmMzcwZGVkNjA1NmY0NmM6NzgxMDkxMjU1NjVhYjE3NDdmNTExZjdlNzdlM2JiYWY"
+    },
+    {
+      "category": "Infantil",
+      "name": "Canal Infantil",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvQ2FuYWxJbmZhbnRpbC9saXZlX2Rhc2hfY2xkL0NhbmFsSW5mYW50aWwubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 201,
+      "epg_id": "CANAL INFANTIL",
+      "epg_name": "Canal Infantil",
+      "icon": "https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "Mzk2NzM5ODNmNGJhMjJmMGY4MGMwOTM0Y2UwNDI0Yzg6Y2Q5ZjM0OThjYjYzY2M3MmQxMzE3YjE0YTY3YWI5M2M"
+    },
+    {
+      "category": "Infantil",
+      "name": "Cartoon Network",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhcnRvb25OZXR3b3JrL2xpdmVfZGFzaF9jbGQvQ2FydG9vbk5ldHdvcmsubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 202,
+      "epg_id": "Cartoon Network.uy",
+      "epg_name": "Cartoon Network",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CTOON.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YzdlZmU2M2JiZjY4MmE0MTI0ZmIzNGMwMWViN2EwYTc6NDg2Njc1MTFiODY2OGRmOTZmYTNhYmFhNjIzZTRmNjk"
+    },
+    {
+      "category": "Infantil",
+      "name": "Cartoonito",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Jvb21lcmFuZy9saXZlX2Rhc2hfY2xkL0Jvb21lcmFuZy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 203,
+      "epg_id": "Cartoonito HD.uy",
+      "epg_name": "Cartoonito",
+      "icon": "https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png",
+      "drm_type": "clearkey",
+      "drm_key": "Y2YxNWQ1YTBmOTMyOWY4MTU3NzlkNGE3ZGQ3NjBmYmM6Y2QwMGE4YTNmNmExNjc5NTRkNGY2NzhmYWIyMzIzZGE"
+    },
+    {
+      "category": "Infantil",
+      "name": "Discovery Kids",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeUtpZHMvbGl2ZV9kYXNoX2NsZC9EaXNjb3ZlcnlLaWRzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 204,
+      "epg_id": "Discovery Kids HD.uy",
+      "epg_name": "Discovery Kids",
+      "icon": "https://git.io/JOTL6",
+      "drm_type": "clearkey",
+      "drm_key": "NGQ4YjMyMjBhYzMwZTVjODE0OGQ0YmNjMjI1ZWZhNWE6ZWI2OTE4ZGZlMTE3ZmM0MDUzOTZhOWMzOTg2YTA0NTA"
+    },
+    {
+      "category": "Infantil",
+      "name": "Disney Channel",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc25leUNoL2xpdmVfZGFzaF9jbGQvRGlzbmV5Q2gubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 205,
+      "epg_id": "Disney Channel HD.uy",
+      "epg_name": "Disney Channel",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSNEY.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NzBkOTFiMTQ5MzVhMzU5OWYwMmU1ZGFiNzFlZjIxZGM6ODAzZTkxNTJlOWRhZjcxN2I3NzIzOTlhOTc4MDIwNzY"
+    },
+    {
+      "category": "Infantil",
+      "name": "Disney Jr.",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc25leUpSL2xpdmVfZGFzaF9jbGQvRGlzbmV5SlIubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 206,
+      "epg_id": "Disney Jr HD.uy",
+      "epg_name": "Disney Junior",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MTg2NTQ5NDQ5NTNiMjVhOGI2MzkyNzIyYTgzZGI2NTM6NDBiZjZhOWYwNWJiZjBlMDY3MTVlZDU3MDdmMGVkZDI"
+    },
+    {
+      "category": "Infantil",
+      "name": "Nickelodeon",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL05pY2tlbG9kZW9uL2xpdmVfZGFzaF9jbGQvTmlja2Vsb2Rlb24ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 209,
+      "epg_id": "Nickelodeon.uy",
+      "epg_name": "Nickelodeon",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/NICKL.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZDQ2MzIxMDAxMzU0ODg5MjVjMWQ3ZTk4OTVhMjZiOTk6MWRhNDc4ZjY4N2I4NTBjNjFjOWFmNjE5ODVkOTdjMTc"
+    },
+    {
+      "category": "Infantil",
+      "name": "Nick JR.",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL05pY2tKckNvL2xpdmVfZGFzaF9jbGQvTmlja0pyQ28ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 210,
+      "epg_id": "Nick Jr..uy",
+      "epg_name": "Nick JR.",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MDQwZWZiNGFjODAwODA4NWQwOWMxN2RiNjAyYjI0ZmE6MTk0MGI4ODExNGRlMTNkNDYwY2IxOTYzMjZlNjM4YTc"
+    },
+    {
+      "category": "Infantil",
+      "name": "PLIM PLIM TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9QbGltUGxpbS9kZWZhdWx0L2luZGV4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 211,
+      "epg_id": "EL CANAL DEL PAYASO PLIM PLIM",
+      "epg_name": "PLIM PLIM TV",
+      "icon": "https://i.ibb.co/HgqtG9q/plim-plim.png",
+      "drm_type": "clearkey",
+      "drm_key": "YTQ3YmZiOWUyNDZmM2I4NDA1YzEyMjVmYWU3M2RhOWU6YTQ4NjVmYjg3NDJiNDU0MWY2NGFjMzczNzBlOTAyYTY"
+    },
+    {
+      "category": "Infantil",
+      "name": "Tooncast",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1Rvb25jYXN0L2xpdmVfZGFzaF9jbGQvVG9vbmNhc3QubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 212,
+      "epg_id": "Tooncast.uy",
+      "epg_name": "Tooncast",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TCAST.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZmQ5MDRlMDRiZDQwM2NmYTk3Yjc0ODJmM2ZlZmJlYTE6NjAwZjA1NTExZTllNzQzZDhkZTA1NjM4MGUyNDMxMGY"
+    },
+    {
+      "category": "Infantil",
+      "name": "Zoo Mo",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvWm9vTW9vL2xpdmVfZGFzaF9jbGQvWm9vTW9vLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 213,
+      "epg_id": "ZooMoo.ar",
+      "epg_name": "Zoo Mo",
+      "icon": "https://www.dropbox.com/scl/fi/kon8vexrj1s65pctcbjis/zoomoo.webp?rlkey=a5xyd3h3lc5l4rgh12ynevgww&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "MDcwNjYwYzRhMDdhYjY0NGZiYTYyZGFiMDczMDZkNDM6Njc4NmViNTYzMzdhMzE4ZmNlMGI3ZjljY2NmOTY0Nzg"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "[adult swim]",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0FkdWx0U3dpbS9saXZlX2Rhc2hfY2xkL0FkdWx0U3dpbS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 300,
+      "epg_id": "Adult Swim.uy",
+      "epg_name": "[adult swim]",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NDc2YWU1YjY3YjdhZDI5N2FjNjQzMzg2ZDJkYWEyMjk6MGVmNzUwMDlkZTEyZWZlODMzZGFmYTk3YWEzMDI3MmM"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "A&E",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0F5RS9saXZlX2Rhc2hfY2xkL0F5RS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 301,
+      "epg_id": "AandE HD.uy",
+      "epg_name": "A&E",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NzM2YmVmMTk3YmE1YzczMjAzYWRkNzljOGU4ZDI3OWE6N2YwMzdkYzU4MzUzMDVmMjJhNzIwNmQ3OWQ0ZDVkYjI"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "AMC",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0FNQy9saXZlX2Rhc2hfY2xkL0FNQy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 302,
+      "epg_id": "AMC HD.uy",
+      "epg_name": "AMC",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NjhmYzc4Y2I2ZmU1ODBjMzVkMjY5ZGE4N2E0NzFlYjA6MmJkNjIzMjIwYTI0N2Q5NWQ2OTAwY2VhNjEyNzY5ZGY"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "AXN",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0FYTi9saXZlX2Rhc2hfY2xkL0FYTi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 303,
+      "epg_id": "AXN HD.uy",
+      "epg_name": "AXN",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ODI4YzQ3M2NiMTkyY2FhYmE4ZTFkOWZjNjNkYTRkNzU6Y2I2MDA4NjFlOTgyMmVmZWVhNWQyZGJkMGMxNTdjNDU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Cinecanal",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NpbmVjYW5hbC9saXZlX2Rhc2hfY2xkL0NpbmVjYW5hbC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 306,
+      "epg_id": "Cinecanal HD.uy",
+      "epg_name": "Cinecanal",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YWNlYTM0YTRkYWRmNzg5NmEwMjgwYjA4NDk2ZDQ5ZDU6NmViNjFhM2JmMzQxMWM2NGY4OWI1OTRlNTdkNDg3YzY"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Cine Familiar",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvQ2luZUZhbWlsaWFyL2xpdmVfZGFzaF9jbGQvQ2luZUZhbWlsaWFyLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 307,
+      "epg_id": "CINE FAMILIAR",
+      "epg_name": "Cine Familiar",
+      "icon": "https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NzY4NmUzZWUzZTYwNmU2Njk0ZTZlMzlmY2JjOWE4Yjc6Y2QwZmE1OWJiNzFhMzk4ODQzNDk5ZmViYjg1OWMzNDE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Cine Hispano",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvQ2luZUhpc3Bhbm8vbGl2ZV9kYXNoX2NsZC9DaW5lSGlzcGFuby5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 308,
+      "epg_id": "CINE HISPANO",
+      "epg_name": "Cine Hispano",
+      "icon": "https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "YzNjYjczMjA4MTVkMDFjYjQxZmRiMGU5ZDViZDI5MTU6N2M4OTI2NmIwY2M2MGZhMzQxOTQ3NGZjOTZjMTg5Mjc"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Cinemax",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NpbmVtYXgvbGl2ZV9kYXNoX2NsZC9DaW5lbWF4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 309,
+      "epg_id": "Cinemax HD.uy",
+      "epg_name": "Cinemax",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "M2IzZDg5ZjBlMDk5Zjc1MGJhYjRmOGMyZWJjNGM3ZWM6MTE0MzEzZjczNGU3YThlODRiMGNhNmQxNmJkNjUyY2I"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Cine Premium",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvQ2luZVByZW1pdW0vbGl2ZV9kYXNoX2NsZC9DaW5lUHJlbWl1bS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 310,
+      "epg_id": "CINE PREMIUM",
+      "epg_name": "Cine Premium",
+      "icon": "https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "ODEyZjg5Y2IwMDI0ZDM2OTllODMyZDcyZTRmMGViYjY6ODUxZDc0OTZjZDFhN2UwMzEyNWIyYjZkM2I0MWM5MjI"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Comedy Central",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NvbUNlbnRyYWwvbGl2ZV9kYXNoX2NsZC9Db21DZW50cmFsLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 311,
+      "epg_id": "Comedy Central.ar",
+      "epg_name": "Comedy Central",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZWVkOWExOTNiM2M2MTY3YjgyMzAzMGQ3ODhkNzcxYTQ6ZDIxZGFlYmE3ZTUxM2Q5ZjNiYTcxNGRlZWRkZDA2MzA"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "De película",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0RlUGVsaWN1bGEvbGl2ZV9kYXNoX2NsZC9EZVBlbGljdWxhLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 312,
+      "epg_id": "De Película.ar",
+      "epg_name": "De película",
+      "icon": "https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NjM5ZTkyNDliNjNiNzMxZTc2MjE5NTNkMjdhYTUzOTM6Y2UwOWNiM2Y0YmNhZDVjMWZlYmUxMDg5M2I2YmE0OTE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "DHE",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0RIRS9saXZlX2Rhc2hfY2xkL0RIRS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 313,
+      "epg_id": "DHE.ar",
+      "epg_name": "DHE",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NTQ1MzE4MDA3NGMwYThlY2ZlMmEyMWUwY2Q1ZjJjMWI6MTE1MGZkOTM0OTJiYTg2MDlmYjk0ZDBhMzA4N2IzYTU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Eurochannel",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9FdXJvY2hhbm5lbC9kZWZhdWx0L2luZGV4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 314,
+      "epg_id": "EUROCHANNEL",
+      "epg_name": "Eurochannel",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmYxMzI0ZWFiMjYzYjcyZjVkODM3M2E5Njc4ZTY3NzQ6MTM3NWNkMzM5MDc3MmIwM2I1MTM2ZGNlMTY0MWJhODQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Europa Europa",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0V1cm9wYUV1cm9wYS9saXZlX2Rhc2hfY2xkL0V1cm9wYUV1cm9wYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 315,
+      "epg_id": "Europa Europa HD.uy",
+      "epg_name": "EUROPA EUROPA",
+      "icon": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDFjNjI5NWUzZmM5ODM1MjQyNzk0MWRjMTAxNTYwNWE6YmFjOWM5NzM0MGRmMGI4MTNhOWYwOGM1NDg4MGZlYjQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "FX",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0ZYL2xpdmVfZGFzaF9jbGQvRlgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 316,
+      "epg_id": "FX HD.uy",
+      "epg_name": "FX",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmJiOGM4MTgyMmExNjI4ZjQ5ODZjNjM3OWNhNTQwNmE6YjY2MTI2NWJhYWRhNTMyNGViODI2MjI0YTRmMzU4YmQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Golden",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0dvbGRlbi9saXZlX2Rhc2hfY2xkL0dvbGRlbi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 317,
+      "epg_id": "Golden.ar",
+      "epg_name": "Golden",
+      "icon": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmVjYmQxMzJkZTcyNzIyNGMxNjFhYmQ4MDY1YjBkZmI6NzVmYWYxZWNhM2NlZjcyMDhlMTlkZTM3OWQwYTUyOWQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Golden Edge",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0dvbGRlbkVkZ2UvbGl2ZV9kYXNoX2NsZC9Hb2xkZW5FZGdlLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 318,
+      "epg_id": "Golden Edge.ar",
+      "epg_name": "Golden Edge",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MjAyYzg1NzljOTRkZjUwNmMxYTFjNTRlZjQ5YTBjNjA6ODcxZjg0OTAxZjM1ODBjZmE3MjczMjkzNDgyYTY2YzU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCTy9saXZlX2Rhc2hfY2xkL0hCTy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 319,
+      "epg_id": "HBO HD.uy",
+      "epg_name": "HBO",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZGVhZDAyM2Y3YTgxNjM0MzM5YWU2Mzk5OTBjMTUxN2E6YmE5NzAyMjJiNDQ2NmM2MWQwZGVjY2M2N2FiMzQ0NTI"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCTzIvbGl2ZV9kYXNoX2NsZC9IQk8yLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 320,
+      "epg_id": "HBO 2 HD.uy",
+      "epg_name": "HBO 2",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "Zjk2MmI3NmMzNjkzZGFmZWUwMTE3NDYzNDRiNWU4MjM6MWFjODYzZjE2MzNkZmMyZDNkYjA2OWYzZGQ5YTgxNDU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Plus",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1BsdXMvbGl2ZV9kYXNoX2NsZC9IQk9QbHVzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 321,
+      "epg_id": "HBO Plus HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
+      "drm_type": "clearkey",
+      "drm_key": "YzZmMzg2ZGI0MmMwODNhODJiODk2OTA2NGViOTkwN2Q6ZGM0OTI5NjljZTZiOWNiMzkwOWE1ZDU5YTMzZjg4ZGE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Family",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT0ZhbWlseS9saXZlX2Rhc2hfY2xkL0hCT0ZhbWlseS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 322,
+      "epg_id": "HBO Family.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
+      "drm_type": "clearkey",
+      "drm_key": "YzZmMzg2ZGI0MmMwODNhODJiODk2OTA2NGViOTkwN2Q6ZGM0OTI5NjljZTZiOWNiMzkwOWE1ZDU5YTMzZjg4ZGE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Mundi",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT011bmRpL2xpdmVfZGFzaF9jbGQvSEJPTXVuZGkubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 323,
+      "epg_id": "HBO Mundi HD.uy",
+      "epg_name": "HBO Mundi",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmVhNWRhNDRmNDlhN2UzMGQyMWE2ZTBhMmZkZGMyMjU6MDE4NWIyMDliZjUwZTJhMWIxY2ZkNDE2ZGI1MTc3ZGU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Pop",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1BvcC9saXZlX2Rhc2hfY2xkL0hCT1BvcC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 324,
+      "epg_id": "HBO POP HD.uy",
+      "epg_name": "HBO Pop",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZDVjZjFhZDljN2JjMGEyMDA1MTUzNWFmZjYzYTVjMDQ6MDE5ZWEwZGU1OTBhMDEzODVmNTBhZTNmZTA5MGQxOWU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Signature",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1NpZ25hdHVyZS9saXZlX2Rhc2hfY2xkL0hCT1NpZ25hdHVyZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 325,
+      "epg_id": "HBO Signature HD.uy",
+      "epg_name": "HBO Signature",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmY0OGJhODllMDNiNDFlNTI4ODJhN2UxNTVmYWNkOWM6NTAxMDNkOGE4MTlkNGZhZWQ0ZTQ0ZGM2Y2Q5MDgwNjY"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "HBO Xtreme",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1h0cmVtZS9saXZlX2Rhc2hfY2xkL0hCT1h0cmVtZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 326,
+      "epg_id": "HBO Xtreme HD.uy",
+      "epg_name": "HBO Xtreme",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MzNkNDgyM2VkMmNhZTU1YzE5ZmEwYTdjMjBmYTQyMzU6YTY0YzRkNTVlZGIyMDA0NjgwMmU3NjMzMmM4YWE3NWU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Kanal D Drama",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0thbmFsRC9saXZlX2Rhc2hfY2xkL0thbmFsRC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 327,
+      "epg_id": "KANAL D DRAMA",
+      "epg_name": "KANAL D DRAMA",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png",
+      "drm_type": "clearkey",
+      "drm_key": "YjljYWIzMjMxNmIzZDhhYWUwNDUyNzU1Y2ViZGFhZGQ6MzVlNjE4Njk4NDkxNjgwNDNhNDQwNDVmMmQ3ZmY4NDI"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Mórbido TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9Nb3JiaWRvL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 328,
+      "epg_id": "MORBIDO TV",
+      "epg_name": "Mórbido tv",
+      "icon": "https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NmE0OGU5MjNkZjBiMTc4M2JmYTBlODJhM2M1MWZjMjA6MTIyNjc2OTA2MjU2ZmIwMTU0ZDg0MTkzNjkwOWM1N2I"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Novelísima",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9Ob3ZlbGlzL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 329,
+      "epg_id": "NOVELISIMA",
+      "epg_name": "Novelísima",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+      "drm_type": "clearkey",
+      "drm_key": "NDQwMGY3NThkZGJkZGM4MWI3ZWY5YTJiMzIyNTE2MjU6YWEyNDQ4ZWJjNjNhNTAzNGI5YjhlNmU4ZDE1Zjc3MGQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Paramount Network",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1BhcmFtb3VudC9saXZlX2Rhc2hfY2xkL1BhcmFtb3VudC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 330,
+      "epg_id": "Paramount HD.uy",
+      "epg_name": "Paramount Network",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/PRMT.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ODlhODY4NTk5YWYwZmEwMzY4YTU0N2RhMTYxMTIwMWU6ZDdiZTk0OWIyOTZkZWNjYThkNmEyZDUzNWMwNTdkYzY"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Sony Channel",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1NvbnkvbGl2ZV9kYXNoX2NsZC9Tb255Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 332,
+      "epg_id": "Sony HD.uy",
+      "epg_name": "Sony Channel",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MjU4YjQ1NWVlZTc2ZDY0MDZmODdkZDAyZGRjNzM1ZDk6ZGQ4YWFkNzRjNzlmZTgzOWNjMTQyZDBmZjY2OTQ0NzM"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Space",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1NwYWNlL2xpdmVfZGFzaF9jbGQvU3BhY2UubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 334,
+      "epg_id": "Space HD.uy",
+      "epg_name": "Space",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZmQ3NTE2ZTc0ZWFmYmY2Zjk2NjRhOTQ2NTE0OWYxNzk6NmFhMjkzNWQxN2ZkNGUxZTg5NjNlY2JlZjRlZGI4MmI"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Star Channel",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1N0YXJDaGFubmVsL2xpdmVfZGFzaF9jbGQvU3RhckNoYW5uZWwubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 335,
+      "epg_id": "STAR Channel HD.uy",
+      "epg_name": "Star Channel",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NzgzOTY2OTNiMTcyMTU4MTc2YzMzYzI4ZjJlN2MwYjg6MWUyNTExMTI4MTlhMzRlZDY5MWJjMzg4MWM2NGVhNGQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Studio Universal",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1N0dWRpb1VuaXZlcnNhbC9saXZlX2Rhc2hfY2xkL1N0dWRpb1VuaXZlcnNhbC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 336,
+      "epg_id": "Studio Universal HD.uy",
+      "epg_name": "Studio Universal",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/STUN.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "M2EwN2IyMjBmOGYxNDJhMGVmODY2MmZmYTBhZGVlNGY6ZTg4ODQ2ZDA0MGNkMTU3YjI4ZmZkYTFkNDRhNWNmODk"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "TCM",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RDTS9saXZlX2Rhc2hfY2xkL1RDTS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 337,
+      "epg_id": "TCM SD.uy",
+      "epg_name": "TCM",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TCMLA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MThjZmUyN2FkYWQyZTQ0NGRjMGY1MGEzMjM4YTE3NDA6YTBlMjVmMThiZTk0ZDZlYjFjOTczMzExMTEzNWMwNDc"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "TL Novelas",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1Rsbm92ZWxhcy9saXZlX2Rhc2hfY2xkL1Rsbm92ZWxhcy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 338,
+      "epg_id": "TLNovelas.ar",
+      "epg_name": "TL Novelas",
+      "icon": "https://static.flow.com.ar/images/-/-/0/0/3871340007170.png",
+      "drm_type": "clearkey",
+      "drm_key": "YTE0OGI1ODdiYjM0ZmU5YmE1ZTc1MmI5NWQwZjM1MTc6ZmZiZTUyOWRhYWU4NmUyYjZjZmEwMjVhOTM3ZmY3YTQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "TNT",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROVC9saXZlX2Rhc2hfY2xkL1ROVC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 339,
+      "epg_id": "TNT HD.uy",
+      "epg_name": "TNT",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OTAyZjFmODU3YzMwMDgxYjI0OWFlMzU4ZTEyZjliODI6ZmZmOGNiMGQ5M2I1Nzg0NWMxY2NiYTQ1OGY1MTk3MGQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "TNT Novelas",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROVE5vdmVsYXMvbGl2ZV9kYXNoX2NsZC9UTlROb3ZlbGFzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 340,
+      "epg_id": "TNT Novelas.uy",
+      "epg_name": "TNT Novelas",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OGEwMjZmYzNkNDQzNDU0Y2YxYWFlNDg2YjY4OGNhOWE6NzY2NWMyZjZlNzkxZDQ0ZjA0N2U1ZmZhOTI3MzgyYWE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "TNT Series",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROVFNlcmllcy9saXZlX2Rhc2hfY2xkL1ROVFNlcmllcy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 341,
+      "epg_id": "TNT Series HD.uy",
+      "epg_name": "TNT Series",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MmQxNWYyZDJmOGY4MWZiYWNkODIzOTFmNTg4OWFhM2E6OTdjN2E1MDI5NTAwYTgxZDM3ZjJiNzBkNjI3NmZjOWE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaXZlcnNhbC9saXZlX2Rhc2hfY2xkL1VuaXZlcnNhbC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 342,
+      "epg_id": "Universal HD.uy",
+      "epg_name": "Universal TV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "N2M2Y2MzNmI5YzNmNDRmMzdiNzEzYWQ0MDQ4M2UwODU6Y2VhZWNmNzBiOTk3ODA5NjdkOTdiOWVhZjZlMmFkNWY"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal Premiere",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaVByZS9saXZlX2Rhc2hfY2xkL1VuaVByZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 343,
+      "epg_id": "Universal Premiere.uy",
+      "epg_name": "Universal Premiere",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NGNhNDc5YmE4OTYzZjEzMmM3MDFlZWZhYTBmYjJiNWE6YmVkMjM1MTk0ZGE1ZTE4MTA4YzEyZWY4MWIzMjRhODA"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal Cinema",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNpbi9saXZlX2Rhc2hfY2xkL1VuaUNpbi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 344,
+      "epg_id": "Universal Cinema.uy",
+      "epg_name": "Universal Cinema",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NmE2NWU3N2ZiNWYyODM4YjJmOTdjNzc4Y2M1NzFhYzI6YmMxZjI4YjFlYzYxOWVkN2RhMjJmYzlhODBkM2EzNWQ"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal Comedy",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNvbS9saXZlX2Rhc2hfY2xkL1VuaUNvbS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 345,
+      "epg_id": "Universal Comedy.uy",
+      "epg_name": "Universal Comedy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OTRjZGFiODY3M2ZlMjMxYThkZTU3MjU5ZWFjNTUyMmI6MTEyNWQxNTQ2NDk3NzBjYzEyMjc3MDUzMWI4ZjhiMzA"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal Crime",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNyaS9saXZlX2Rhc2hfY2xkL1VuaUNyaS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 346,
+      "epg_id": "Universal Crime.uy",
+      "epg_name": "Universal Crime",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "N2FkMWNmZThlZGJjMzViNWJhYjFhNjZhNWNlMjk4YjM6MjU3OTRhZTFkZjFlOTkwOGQ0M2ExMDI0ODFlN2QzMTE"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Universal Reality",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaVJlYS9saXZlX2Rhc2hfY2xkL1VuaVJlYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 347,
+      "epg_id": "Universal Reality.uy",
+      "epg_name": "Universal Reality",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZGZiY2JlNjU2YjM0ODg0ZDhmOGRjYzU3ZDJkYzUxZjg6ZDNlMmMwMzAwM2I0NDNjY2VkZDMwZDY0NDJmYmRkNDA"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "USA",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VTQU5ldHdvcmsvbGl2ZV9kYXNoX2NsZC9VU0FOZXR3b3JrLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 348,
+      "epg_id": "USA.uy",
+      "epg_name": "USA",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "M2ExZTc2NjExOWMzZmIwM2IwOTVjOGU3ZjBlNjMxMzk6MDM5MzIzNjRlMWZmNmFiNjhjZGMyYzE5NjlhZWU2YTU"
+    },
+    {
+      "category": "Cine, Novelas y Series",
+      "name": "Warner",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1dhcm5lci9saXZlX2Rhc2hfY2xkL1dhcm5lci5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 349,
+      "epg_id": "Warner HD.uy",
+      "epg_name": "Warner",
+      "icon": "https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png",
+      "drm_type": "clearkey",
+      "drm_key": "MGNkMTZmOWVhZGU1YmRkYWI0MWZkM2Q1OWY4MDRiY2I6ODg1ZGM5M2IwNjkyZTJlZmUzNzQ0OWE0YTU2MTczZWY"
+    },
+    {
+      "category": "Variedades",
+      "name": "Animal Planet",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0FuaW1hbFBsYW5ldC9saXZlX2Rhc2hfY2xkL0FuaW1hbFBsYW5ldC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 400,
+      "epg_id": "Animal Planet HD.uy",
+      "epg_name": "Animal Planet",
+      "icon": "https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZGJlYTU2ODI5NzhjNTU5M2Q3ZjlmMzJiYTNmYmQwMDA6OTkyNzU0MDk1ZjA1MGQ1MzE2M2MwNTlmZjRlODE1NzE"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeUNoYW5uZWwvbGl2ZV9kYXNoX2NsZC9EaXNjb3ZlcnlDaGFubmVsLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 401,
+      "epg_id": "Discovery HD.uy",
+      "epg_name": "Discovery",
+      "icon": "https://static.flow.com.ar/images/271/CH_LOGO/350/500/0/0/48950714073066.png",
+      "drm_type": "clearkey",
+      "drm_key": "NzRlYzk4NmIzMzg4YzYyZjVmYTdjNTUxZTIyNWQwYjg6OTMyNzgyMWRlNWVhY2U1NTA4Y2Y1NzM3NzhjOGMzYzM"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery Home And Health",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hvbWVIZWFsdGgvbGl2ZV9kYXNoX2NsZC9Ib21lSGVhbHRoLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 402,
+      "epg_id": "Home and Health HD.uy",
+      "epg_name": "Discovery Home And Health",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NzNmMTQxNzQ0YTdhYTUwYTQ1Zjk4MTlmMGU1YmNlOGI6NTk0ZWZmM2QwOTQ4NzY5NTRlNjk5ZDU0ODg3NGM1OGY"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery ID",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0lEL2xpdmVfZGFzaF9jbGQvSUQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 403,
+      "epg_id": "Investigation Discovery.uy",
+      "epg_name": "Discovery ID",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZjQxM2NhNmI0OTU1YmFiN2Q4OWEzZDI0YmJmOGM5OGI6NTgxNjg2MTM0MzQwMzVjZWI5OGUxODgxNWY5NzQzNmM"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery Science",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeVNjaWVuY2UvbGl2ZV9kYXNoX2NsZC9EaXNjb3ZlcnlTY2llbmNlLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 404,
+      "epg_id": "Discovery Science HD.uy",
+      "epg_name": "Discovery Science",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MmZjZWY2MzU5OWU4NmJkOWJkNjk2NDQyMzQwMjBjZDY6YTgyZGI0ZWUyMWU3NjJiZjZjNzM0ZTcxMDg4NTExYzA"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery Theather",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeVRoZWF0ZXIvbGl2ZV9kYXNoX2NsZC9EaXNjb3ZlcnlUaGVhdGVyLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 405,
+      "epg_id": "Discovery Theater HD.uy",
+      "epg_name": "Discovery Theather",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DTHTR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YTc1M2JhNmU2YjMxM2YxMjliZDY1OTEzNjQ2ODBmMDc6ZjNmOGUxYTc2MzNiMjYyY2EzN2FlOGMzNWYzY2QxZTI"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery TLC",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeVRyYXZlbEFuZExpdmluZy9saXZlX2Rhc2hfY2xkL0Rpc2NvdmVyeVRyYXZlbEFuZExpdmluZy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 406,
+      "epg_id": "TLC HD.uy",
+      "epg_name": "Discovery TLC",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSTLC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmVkMDdjN2ZiYmM2YTMwMjRiYWE4YTQ0YzA1MmRkNTk6YTYzMmRlYWQ2OTgxNTZiM2YyMDgzMDc2YWExOTJiNTc"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery Turbo",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeVR1cmJvL2xpdmVfZGFzaF9jbGQvRGlzY292ZXJ5VHVyYm8ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 407,
+      "epg_id": "Discovery Turbo HD.uy",
+      "epg_name": "Discovery Turbo",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NjkwMmQ1MGVjMDM2ZDMwMTQ2YjEyYjkyN2Y0MzYzZDQ6ZDQwZGM1ZWI2ZTBmOGZiZDU4YWI3ZGQ2YjkxMTQzYjU"
+    },
+    {
+      "category": "Variedades",
+      "name": "Discovery World",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Rpc2NvdmVyeVdvcmxkL2xpdmVfZGFzaF9jbGQvRGlzY292ZXJ5V29ybGQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 408,
+      "epg_id": "Discovery World HD.uy",
+      "epg_name": "Discovery World",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "Yjk0OTAxYzY5MjY4NzA2ODNjNWJhZWJjNjM0OTY2NTM6ZjA0ZGEyNGNkN2ViYTZkZmRkMGQ2NmVhMmEyZmViMjQ"
+    },
+    {
+      "category": "Variedades",
+      "name": "E! Entertainment",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VudGVydGFpbWVudC9saXZlX2Rhc2hfY2xkL0VudGVydGFpbWVudC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 409,
+      "epg_id": "E!.uy",
+      "epg_name": "E-Entertaiment",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/ENTMN.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MDgzOTcyOTE1OWZkNDAwMjUwZjkwNTMyZjQxYjY1ZjM6OTkyOTcyYTFiODk5ODJjMzU5YzRiNGE1ZjgwMzRlZWQ"
+    },
+    {
+      "category": "Variedades",
+      "name": "El Gourmet",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VsR291cm1ldC9saXZlX2Rhc2hfY2xkL0VsR291cm1ldC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 410,
+      "epg_id": "El Gourmet HD.uy",
+      "epg_name": "El Gourmet",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MDg1M2IxZDJhZjdkNmVlNWY3YThhNTcxNjM3ZWU2Yjc6ZjE3M2ZmODNlOGE1MGQ3ZDBjMzYzY2RlMGMyNjFkYzY"
+    },
+    {
+      "category": "Variedades",
+      "name": "Film & Arts",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0ZpbG1BcnRzL2xpdmVfZGFzaF9jbGQvRmlsbUFydHMubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 411,
+      "epg_id": "Film and Arts HD.uy",
+      "epg_name": "Film & Arts",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/F&ART.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OGZlMzIyNmIwNWU4NmI3MTA3ZDJjMDVlNDAyZDE0ZWU6MmNhYTNhNzhmMDI4MTY0Y2YzOTVjNmVkNDBiOWQzOWE"
+    },
+    {
+      "category": "Variedades",
+      "name": "Food Network",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0Zvb2ROZXR3b3JrL2xpdmVfZGFzaF9jbGQvRm9vZE5ldHdvcmsubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 412,
+      "epg_id": "Food Network HD.uy",
+      "epg_name": "Food Network",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/FDNET.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NTNiMzU5NzdlZWZjMDIzN2JlZjAxNzNmOWI0MzFhMDc6NTQwMjQ3M2JhNDcwOTZlZGMwMWJiMjMzNDY4NWQ4NjA"
+    },
+    {
+      "category": "Variedades",
+      "name": "HGTV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hHVFYvbGl2ZV9kYXNoX2NsZC9IR1RWLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 413,
+      "epg_id": "HGTV.uy",
+      "epg_name": "HGTV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/DHGTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZWJjODI5NGMzNmJiNTBmZDRjYzZjZDg5ZTM0NjA0YmQ6NWQ1NTAwODBjODM0OWU4NzhmY2Q4NjgyMWI5MWY3NGI"
+    },
+    {
+      "category": "Variedades",
+      "name": "History",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hpc3RvcnkvbGl2ZV9kYXNoX2NsZC9IaXN0b3J5Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 414,
+      "epg_id": "History HD.uy",
+      "epg_name": "History",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MzcyOWQwNzVjMWEyMmQwNmJkNjk3OGM5NDFmZjBkMTM6YzEwNmM2ZDFkZDU4ZjRmMTRiNmViZTZjODY3MmZkMGI"
+    },
+    {
+      "category": "Variedades",
+      "name": "History 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hpc3RvcnkyL2xpdmVfZGFzaF9jbGQvSGlzdG9yeTIubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 415,
+      "epg_id": "History 2 HD.uy",
+      "epg_name": "History 2",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NDU0YTRjNTcwZjhiNjYyMDc2Y2U0ZjFhOTMxZDNiMDY6MmU3MjMzZTIyOGQ3ZDhhMjAzZTA3ZTJiMDg1ODQwMTk"
+    },
+    {
+      "category": "Variedades",
+      "name": "Lifetime",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0xpZmV0aW1lL2xpdmVfZGFzaF9jbGQvTGlmZXRpbWUubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 417,
+      "epg_id": "Lifetime.uy",
+      "epg_name": "Lifetime",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/LFTME.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NmY4NWQ4MjgyYmI2ZmUyZGI4ZjM0Mjk5ZDU3NDJmMDI6MjhkNDlmNDA5ZDcxOGVjYWQ4ZjgyZjQ3N2QzYmViNzc"
+    },
+    {
+      "category": "Variedades",
+      "name": "Love Nature",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9Mb3ZlTmF0dXJlL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 418,
+      "epg_id": "LOVE NATURE",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/160/160/0/0/64384481074718.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZWE2NDM3MDg0ZjZjMDU1YzdjODU2Zjg2MzYxZTg2ZmE6OTc5MWMwZTZmNzJiNGE1ZWFjZjhiZGRmYTUyOTAyMDk"
+    },
+    {
+      "category": "Variedades",
+      "name": "Más Chic",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL01hc0NoaWMvbGl2ZV9kYXNoX2NsZC9NYXNDaGljLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 419,
+      "epg_id": "Mas Chic.uy",
+      "epg_name": "Más Chic",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/MCHIC.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MzZhZThhOTZhMzU1NjJhZjRjNTQ2OWNhZDg0YmZlNjg6MjRlYjE1ZmYxZjUyNTEwM2FhZGZhYmQxOTA4Y2UzNjY"
+    },
+    {
+      "category": "Variedades",
+      "name": "National Geographic",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL05hdEdlby9saXZlX2Rhc2hfY2xkL05hdEdlby5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 420,
+      "epg_id": "National Geographic HD.uy",
+      "epg_name": "National Geographic",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZTQ0YzdhNGE2MmRjMmJlYTU3M2Y1YjIxZWE3ODM0MmI6YmYxOTk2YTUzNGVhMDEwODZkMGI4ZTI4NGYwZjRlN2I"
+    },
+    {
+      "category": "Variedades",
+      "name": "Sun Channel",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1NVTi9saXZlX2Rhc2hfY2xkL1NVTi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 421,
+      "epg_id": "Sun Channel HD.uy",
+      "epg_name": "Sun Channel",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/SUNCH.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NmFlNzU3ODcyOWJkZTlkMmYzNDIwOTAxNDExMDM2ODc6ZmIwMDliYjM3ZGQ4ZmI5OGUyOTEzZjZiNzYyYjc5ZTU"
+    },
+    {
+      "category": "Música",
+      "name": "Allegro",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9BbGxlZ3JvL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 500,
+      "epg_id": "Allegro HD.uy",
+      "epg_name": "Allegro",
+      "icon": "https://i.ibb.co/ts85rN6/allegro.png",
+      "drm_type": "clearkey",
+      "drm_key": "NTNkY2IwNWVmMWYwYmJkMjA5M2IwYzJmZThlNTVhNWU6ZDJmYjlhNGY4MjQ0YTlhZjE5ODkzYmUwMzJjNDNkM2Y"
+    },
+    {
+      "category": "Música",
+      "name": "HTV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hUVi9saXZlX2Rhc2hfY2xkL0hUVi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 502,
+      "epg_id": "HTV.ar",
+      "epg_name": "HTV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HTVLA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NTA2MTI5MWY1NDcxNDNiNDBiOGFiZWRmZGZmNTkxNzQ6ZmIwYTE3ODc0OTljYmMyMmMyZWNhZjFiNDNkZDRkYTc"
+    },
+    {
+      "category": "Música",
+      "name": "Mi Música Romántica",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvTWlNdXNpY2FSb21hbnRpY2EvbGl2ZV9kYXNoX2NsZC9NaU11c2ljYVJvbWFudGljYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 503,
+      "epg_id": "MI MUSICA ROMANTICA",
+      "epg_name": "Mi Música Romántica",
+      "icon": "https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "MGYxYmUxMGQwNTE5ZTBjNDUzMTA1ZjAxMzE5ZmU0MDc6OTk3NmQ5MWJmY2RjN2RkMjE0OGQzNmFmODkwMjc3NjI"
+    },
+    {
+      "category": "Música",
+      "name": "Mi Música Reggaetón",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvTWlNdXNpY2FSZWdnYWV0b24vbGl2ZV9kYXNoX2NsZC9NaU11c2ljYVJlZ2dhZXRvbi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 504,
+      "epg_id": "MI MUSICA REGGAETON",
+      "epg_name": "Mi Música Reggaetón",
+      "icon": "https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "ZDI4OGZjMmRhMDMzOWM5Y2ZhMTc4YmU0YTA3YzRjZDI6YzBlMjViNWQzMGI2ODI5YjE1MjY2ZTg0ODA3YTBjYTY"
+    },
+    {
+      "category": "Música",
+      "name": "Mi Música Hits",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvc3RhMDEvTWlNdXNpY2FIaXQvbGl2ZV9kYXNoX2NsZC9NaU11c2ljYUhpdC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 505,
+      "epg_id": "MI MUSICA HITS",
+      "epg_name": "Mi Música Hit",
+      "icon": "https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "MjI0NmM3NDdlNWY0ZTFkYzA1NTA1MGQxNzg2MTg5MzU6YzZjMmE2NjkzYmVjMDU5ZWJjZWQ3ODhkMDlkMjcxZjM"
+    },
+    {
+      "category": "Música",
+      "name": "Mi Música K-Pop",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL01pTXVzaWNhS1BPUC9saXZlX2Rhc2hfY2xkL01pTXVzaWNhS1BPUC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 506,
+      "epg_id": "MI MUSICA K-POP",
+      "epg_name": "Mi Música Pop",
+      "icon": "https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "YzZmMGIyYjAxNDIwMDdiODYyNGRlMGMyZDUzOTYyYzg6NDZiOGZiNzEzZmRkMDlhMWM1NWI4NWI2ZjhhZDljOWM"
+    },
+    {
+      "category": "Música",
+      "name": "MTV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL01UVi9saXZlX2Rhc2hfY2xkL01UVi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 507,
+      "epg_id": "MTV HD.uy",
+      "epg_name": "MTV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YWRlOTRhOGU3ODgxYTJiYThiM2FlMzE4NWVkNWFkNWQ6MzUwYmEzMDY3ODNlNjYxODJiNTViNzYxZDZjZmY2ZDE"
+    },
+    {
+      "category": "Música",
+      "name": "MTV Live",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL01UVkxpdmUvbGl2ZV9kYXNoX2NsZC9NVFZMaXZlLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 510,
+      "epg_id": "MTV LIVE",
+      "epg_name": "MTV Live",
+      "icon": "https://dl.dropbox.com/scl/fi/7h4u38ddthfv66yf5qvy4/mtvlive.jpg?rlkey=n5gfbgi7wnbkngnrs21iy18ck&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "ODg2NjAxYTRmZGJjYmZlYmFjYmFiZmViY2I3MmE5ZWY6NjUxM2IyYjhmZGEyYjRkMmYzZDk0MGM2MjFlMWMzMGU"
+    },
+    {
+      "category": "Música",
+      "name": "Quiero Música",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1F1aWVyb011c2ljYS9saXZlX2Rhc2hfY2xkL1F1aWVyb011c2ljYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 511,
+      "epg_id": "Quiero.ar",
+      "epg_name": "Quiero Musica",
+      "icon": "https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png",
+      "drm_type": "clearkey",
+      "drm_key": "ZDYyODQ1ZjAxZDI1N2E5MWZkNzNkNjI3NTE4MjhkYzE6YjYwMDUzOWU2OThhNzA3ZGUyM2U1N2Q0Y2RiOTlkOWE"
+    },
+    {
+      "category": "Música",
+      "name": "TeleHit Música Plus",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RlbGVoaXQvbGl2ZV9kYXNoX2NsZC9UZWxlaGl0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 516,
+      "epg_id": "TELEHIT",
+      "epg_name": "TeleHit Música Plus",
+      "icon": "https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "OTMwZjJiMzM4NjQ2MzdmYWYyYjJkYWI2YzhkMGJhOTI6NTMwZTY1NjFjYzQxOTdlOWVhYjdiZjdiNmYzNWEzZWQ"
+    },
+    {
+      "category": "Música",
+      "name": "El Folklórico",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9FbEZvbGtsb3JpY28vZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 518,
+      "epg_id": "elfolclorico",
+      "epg_name": "El Folklórico",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png",
+      "drm_type": "clearkey",
+      "drm_key": "NjA3NWJkMDMwNGJkNDA4MTJhYWEyYTExM2IzMGJlMjQ6OThjODVmYWUyY2UwMjAxNzU3M2EyM2ZhZDA5YThkZmE"
+    },
+    {
+      "category": "Música",
+      "name": "Billboard TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQxL0JMQkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 519,
+      "epg_id": "billboard",
+      "epg_name": "BillBoard TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/600/600/0/0/12050400077728.png"
+    },
+    {
+      "category": "Religión",
+      "name": "Canal Luz",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NhbmFsTHV6L2xpdmVfZGFzaF9jbGQvQ2FuYWxMdXoubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 490,
+      "epg_id": "354#Canal LUZ (ARG)",
+      "epg_name": "Canal Luz",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
+      "drm_type": "clearkey",
+      "drm_key": "NDNlZjVmODgyM2EzNWQxYWM0ODJkYzQ4ZGNhNGMyNzM6YjUzNTMxNWEzMjlkZmQ4NTAwODJkMGY0NDFiMGM0NjM"
+    },
+    {
+      "category": "Religión",
+      "name": "EWTN",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VXVE4vbGl2ZV9kYXNoX2NsZC9FV1ROLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 491,
+      "epg_id": "350#Eternal Word TV Network",
+      "epg_name": "EWTN",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/EWTNE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MjBkZTljODE3M2MxY2Y2ZDljZjIyZDIwMzI1ZTQ0N2U6NThiODU1YjA0OGY3ZjViYmE0ZWM1ZDQ3ZmRiZTNmYzk"
+    },
+    {
+      "category": "Religión",
+      "name": "Enlace",
+      "url": "aHR0cDovLzE5MC42MC40MC4zNToxMjUwMC9wbGF5L2EwOHkvaW5kZXgubTN1OA",
+      "number": 494,
+      "epg_name": "Enlace",
+      "icon": "https://i.ibb.co/YFx8mc7V/tbn-enlace.webp"
+    },
+    {
+      "category": "Religión",
+      "name": "Radio María TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9SYWRpb01hcmlhL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 493,
+      "epg_id": "[CNSTMAR] Canal Santa Maria",
+      "epg_name": "Santa María",
+      "icon": "https://i.ibb.co/b1fNV1N/santamaria.png",
+      "drm_type": "clearkey",
+      "drm_key": "N2IxZTYzMWJhMDg5YzM0NWYzOGEwYmMwNGFjZjQ1OWI6MWIyNmFkOWRmNDg1NjdiOWJkYzAyMTZlNzcxMWI4NWU"
+    },
+    {
+      "category": "Mundo",
+      "name": "Antena 3 Internacional",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M2ZWRzL0FudGVuYV8zL1NBX0xpdmVfZGFzaF9lbmMvQW50ZW5hXzMubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 601,
+      "epg_id": "Antena 3.uy",
+      "epg_name": "Antena 3 Internacional",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/ANTN3.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MWUxYWQ0MjJhNjcxNDQ4MmI2NmZhNzAyYzE2ZTUwYzY6NGZkZjI4YTBhYjkxMzU2Y2E1NWE3NWY0ZTliZjhjOTI"
+    },
+    {
+      "category": "Mundo",
+      "name": "Canal De Las Estrellas",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VzdHJlbGxhcy9saXZlX2Rhc2hfY2xkL0VzdHJlbGxhcy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 605,
+      "epg_id": "Las Estrellas HD.uy",
+      "epg_name": "Canal De Las Estrellas",
+      "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmQxN2U0N2E0YTZmZWVkNjkxMzYzZTJlNTdjMmUzMjI6NWU0OTA2MjYyYjI1YjNmNDYxZWI5YzYzZWEwNGI1MDA"
+    },
+    {
+      "category": "Mundo",
+      "name": "CNN En Español",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NubkVzcGFub2wvbGl2ZV9kYXNoX2NsZC9Dbm5Fc3Bhbm9sLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 606,
+      "epg_id": "CNN Español.uy",
+      "epg_name": "CNNEE",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NzE4ZjA3ZTJiZWNjZjQwY2MyMDczNjVlYThhNzBlZjY6NjcyZDU5ZDYxN2M0YTY5NzAyNWJlMGZiOGQzODJjYzA"
+    },
+    {
+      "category": "Mundo",
+      "name": "CNN Internacional",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0NubklOVC9saXZlX2Rhc2hfY2xkL0NubklOVC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 607,
+      "epg_id": "CNN Internacional.uy",
+      "epg_name": "CNNEE",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MTZjMDdlNmZmZGRkZjk1YjM0ZTY2NmY5ZmI3NDVlYjQ6YWRiZDdkOTYzOTU3NDBhZDVhMzg5Y2JhOTc2ZTMxZDg"
+    },
+    {
+      "category": "Mundo",
+      "name": "Deutsche Welle",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0RXQ2hhbm5lbC9saXZlX2Rhc2hfY2xkL0RXQ2hhbm5lbC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 609,
+      "epg_id": "Deustche Welle.uy",
+      "epg_name": "Deutsche Welle",
+      "icon": "https://git.io/JOTLM",
+      "drm_type": "clearkey",
+      "drm_key": "NWEyNGQxOGRhZTMwNjg5ZDU1NGFmYzZmYzEzNDg3MzQ6MmY3NDIwYmZhY2ZlYWM2MzViOWU4ZWQwYjVhZmE1NTQ"
+    },
+    {
+      "category": "Mundo",
+      "name": "France24 Español",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9GcmFuY2UyNC9kZWZhdWx0L2luZGV4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 612,
+      "epg_id": "France 24 en Español.ar",
+      "epg_name": "France24 Español",
+      "icon": "http://78.47.174.211/logos/france24.png",
+      "drm_type": "clearkey",
+      "drm_key": "NmYzNWYyZDZhMzRjNTg5NDFjYzNlMDY2Yzc1YzI2OTA6ODcyYmE4YjE5Njc4NmVlOTg1ODY0NWU2NDFhYzIyMWQ"
+    },
+    {
+      "category": "Mundo",
+      "name": "RAI Italia",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9SQUkvZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 617,
+      "epg_id": "RAI Italia HD.uy",
+      "epg_name": "RAI Italia",
+      "icon": "https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png",
+      "drm_type": "clearkey",
+      "drm_key": "Y2QyMjUzMjdjYzA3MDAxZmZmZjU1YmQ5MjcxYjFiMmY6ZmFhZTY1NzhiNWMzZmRlMDFiOWY0MWZkMzk2OTY2MDU"
+    },
+    {
+      "category": "Mundo",
+      "name": "Telemundo Internacional",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RlbGVtdW5kby9saXZlX2Rhc2hfY2xkL1RlbGVtdW5kby5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 619,
+      "epg_id": "Telemundo Internacional.ar",
+      "epg_name": "Telemundo Internacional.ar",
+      "icon": "https://git.io/JOTtz",
+      "drm_type": "clearkey",
+      "drm_key": "MGFlN2IwNzA4YmU0ZWRmMzQ1M2MxYWI5ZDY5NzY5NzQ6OGIzMWE5Nzg4ZjZkYzEyNjQwYmE2OTU2MGZjYjRiMzk"
+    },
+    {
+      "category": "Mundo",
+      "name": "TV Chile",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9UVkNoaWxlL2RlZmF1bHQvaW5kZXgubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 622,
+      "epg_id": "TV Chile.uy",
+      "epg_name": "TV Chile",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YjEwOGU1NGVmYjU5NmU1ZDY0MDNhMTc1OWRlZWE4MTA6NzgxZTA4N2NmN2Y4MTRmZDE4N2Y3NGRhYTYyZDExMmE"
+    },
+    {
+      "category": "Mundo",
+      "name": "TVE",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RWRS9saXZlX2Rhc2hfY2xkL1RWRS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 623,
+      "epg_id": "TVE.uy",
+      "epg_name": "TVE",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NDljNzlmMWQxNmRiNDViNGU2NjcxYzNhNzU1MGU4ZmM6YWMyNjY4MGQ1Y2ZkY2FiODdlNDEzOWE0MTBiOTk4NGI"
+    },
+    {
+      "category": "Mundo",
+      "name": "Ve Plus",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9WZVBsdXMvZGVmYXVsdC9pbmRleC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 624,
+      "epg_id": "VE PLUS TV",
+      "epg_name": "Ve Plus",
+      "icon": "https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "ODIzNmJlZjYzODQ5MGE2M2FhY2RjNDI0ZGY5MDg2NTg6NjIyOWY3NTIzNjRjZDVlNzFjZDMxYTllZjk3NTdiZjE"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Multivisión Federal",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2Jway10di9NdWx0aXZpc2lvbi9kZWZhdWx0L2luZGV4Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 466,
+      "epg_id": "Multivision",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2881/CH_LOGO/800/542/0/0/73288892075202.png",
+      "drm_type": "clearkey",
+      "drm_key": "OGY5MjYxYmVlZTA0NWQwNmMzMjVjMzgwYjkyNzVlMTU6ODk5NzZmNjRjY2RlMzUwOWUxNWUzOGM5MTk2YTUyOWY"
+    },
+    {
+      "category": "Provinciales",
+      "name": "COONET Brinkmann",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ0L0JSS0Qvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "COONET Brinkmann",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1241/CH_LOGO/800/542/0/0/42902231076974.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "COOP PLUS Porteña",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ1L1BPUkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "COOP PLUS Porteña",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/800/542/0/0/64370533077571.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 3 Tacural",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIyL1RhY3VyYWxEL291dHB1dC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "epg_id": "Canal Local Tacural",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1819/CH_LOGO/800/542/0/0/70000132077572.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CoopMorteros Streaming",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvQ01TRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "CoopMorteros Streaming",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3968/CH_LOGO/800/542/0/0/21588335079036.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 50 Morteros",
+      "url": "aHR0cHM6Ly9vbmxpbmUuY29vcG1vcnRlcm9zLmNvb3AvY2FuYWw1MF9kYXNoL3Zpdm8ubXBk",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/243/CH_LOGO/800/542/0/0/93511500073657.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "TVCO PICO",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvVFZDT0Qvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "TVPICO",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2482/CH_LOGO/800/542/0/0/85617370076521.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CPE Santa Rosa La Pampa",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvU1JMUEQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal Santa Rosa La Pampa",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2483/CH_LOGO/800/542/0/0/12926473072353.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Punta Alta Visión",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQyL0NFUEFUVkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Punta Alta",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "LDM TV La Pampa",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIyL0NhbmFsMTlMUEQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal 19 La Pampa",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/800/542/0/0/79624310076902.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "DBosco Televisión",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIyL0M3U0FBRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal 7 San Antonio de Areco",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CableCoop Charlone",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ0L0NDQ0Qvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "CableCoop Charlone",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "NTV Tortuguitas",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ1L05UVkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Tortuguitas",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Cable 10 Río Gallegos",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvUmlvX0dhbGxlZ29zRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal 10 Rio Gallegos",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1022/CH_LOGO/800/542/0/0/31560740072137.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CLYFER TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvQ0xZRkVSRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal Rojas",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CETV Canal Deheza",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvRGVoZXphRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal Deheza",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Nexos Multimedio Cooperativo",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvQ2FuYWw1R0lHRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal Gigena - SRT",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2511/CH_LOGO/800/542/0/0/46132478077122.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Río Primero TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TVEFST1NBL1JJTzFUVkgvcGxheWxpc3QubTN1OA",
+      "epg_id": "Rio Primero TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Luque TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TVEFST1NBL0xVUVVFVFZIL3BsYXlsaXN0Lm0zdTg",
+      "epg_id": "Luque TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2515/CH_LOGO/800/542/0/0/77974389077126.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "COVISAR - Sta Rosa",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TVEFST1NBL0NPVklTQVJIL3BsYXlsaXN0Lm0zdTg",
+      "epg_id": "COVISAR - Sta Rosa",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2514/CH_LOGO/800/542/0/0/89469456077129.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Temple TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TVEFST1NBL1RFTVBMRVRWRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Temple TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2516/CH_LOGO/800/542/0/0/15168501077127.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "TvCoop Posse",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9ORFMvdHZjb29wanBIL3BsYXlsaXN0Lm0zdTg",
+      "epg_id": "TvCoop Posse",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2517/CH_LOGO/800/542/0/0/2990054407460.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal COOP Colonia Caroya",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9DT1IvQ2FuYWxDb29wRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal Local Colonia Caroya",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2518/CH_LOGO/800/542/0/0/12868197073593.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal Cooperativo Alicia",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9MVlIvQ0NBRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal Local Alicia sensa",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CEOSCA-Camilo Aldao",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9ORFMvQ0VPU0NBSC9wbGF5bGlzdC5tM3U4",
+      "epg_id": "CEOSCA-Camilo Aldao",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2522/CH_LOGO/800/542/0/0/97778346077157.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "C20 Villa María",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ1L0MyMEQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "C20 Villa Maria",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "STV 2 Canal - Las Varillas",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9MVlIvU1RWMkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal Local Las Varillas",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/800/542/0/0/50103492078472.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "RTV Canal 2 Golcable",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ1L0dvbGNhYmxlRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "RTV Canal 2 Golcable",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/800/542/0/0/39411063077630.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "CELTTV Tornquist",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQzL0NFTFRUVkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Tornquist",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/800/542/0/0/41079403078757.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Funes Fullvisión",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQyL0ZWRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Funes Fullvision",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2530/CH_LOGO/800/542/0/0/14910418077700.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 2 Pueblo San José",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQyL1BTSkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Pueblo San Jose",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/800/542/0/0/91408905077946.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 11 María Juana",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ1L01hcmlhSnVhbmFEL291dHB1dC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "epg_id": "Canal 11 Maria Juana",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2532/CH_LOGO/800/542/0/0/35408141078125.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 4 Pingüé",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQzL0M0UEQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal 4 Pingüe",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/800/542/0/0/70000165078012.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Vivencias TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9ORFMvdml2ZW5jaWFzSC9wbGF5bGlzdC5tM3U4",
+      "epg_id": "Vivencias",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Unidos Tv",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9ORFMvdW5pZG9zdHZIL3BsYXlsaXN0Lm0zdTg",
+      "epg_id": "Unidos Tv",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/800/542/0/0/49748039075506.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "TV Coop Hernando",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIyL0hFUkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "TV Coop Hernando",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/800/542/0/0/66473712078884.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "El Sauce TV VGB",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL0VsU2F1Y2VUVkQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "El Sauce TV Canal Local VGB",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/800/542/0/0/54537430079017.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 9 Cemdo TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ0L0NNREQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal Local CEMDO",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3222/CH_LOGO/800/542/0/0/59584193078619.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 3 Arroyito",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL0MzQUQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Canal 3 Arroyito",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/800/542/0/0/21304890078316.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "RioTel Río Tercero",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQzL1JURC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Rio Tercero",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/800/542/0/0/56157196078230.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 6 Freyre",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL0ZSWUQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Freyre",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2535/CH_LOGO/800/542/0/0/95897423078121.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 2 Almafuerte",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIvQUxNRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Canal 2 Almafuerte",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/800/542/0/0/98726444077724.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Cegro General Roca",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQzL0dSRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "General Roca",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Villa Huidobro",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQyL1ZIRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Villa Huidobro",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3802/CH_LOGO/800/542/0/0/32638035078994.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Canal 11 Oliva",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9ORFMvT2xpdmFIL3BsYXlsaXN0Lm0zdTg",
+      "epg_id": "Canal Oliva",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "VIVE TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ0L1ZJVkVEL291dHB1dC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "epg_id": "VIVE TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3201/CH_LOGO/800/542/0/0/73160833078309.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "TvCoop Suardi",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL1NBREQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Suardi",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "IVISIÓN TV",
+      "url": "aHR0cHM6Ly82MDk4ZmViNWQyODgxLnN0cmVhbWxvY2submV0OjQ0My9saXZlL3NtaWw6aGxzX2NhbmFsbG9jYWwuc21pbC9tYW5pZmVzdC5tcGQ",
+      "epg_id": "IVISION TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2542/CH_LOGO/800/542/0/0/77046385073168.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Coopetel TV - El Bolsón",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQ0L0NQVEQvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "epg_id": "Coopetel TV - El Bolson",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Marchi TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQyL01BUkNISVRWRC9vdXRwdXQubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "epg_id": "Marchi TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2528/CH_LOGO/800/542/0/0/60393547077609.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Somos Uno Chaco TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9TTVQzL0NIVFZEL291dHB1dC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "epg_id": "Somos Uno Chaco TV",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/800/542/0/0/39912108073157.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Provinciales",
+      "name": "Doce Misiones",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9jMTJwb3MvcGxheWxpc3QubTN1OA",
+      "number": 832,
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png"
+    },
+    {
+      "category": "Provinciales",
+      "name": "El Tres TV Rosario",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIyL0MzUkgvcGxheWxpc3QubTN1OA",
+      "number": 843,
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/1301/CH_LOGO/800/542/0/0/1420770707895.png",
+      "drm_type": "clearkey",
+      "drm_url": "aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD02NjI0NDdkZjUyMWZiNTkwYjcyYjFhMTE2NzFjMmFmZCZrZXk9ODFjMjA0YzQ0Mzk4N2Q3YjE3NjU4N2Q2MjZhMTI0YTA"
+    },
+    {
+      "category": "Radios",
+      "name": "La Popu",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9FVC0wMS9wb3B1bGFyL21hc3Rlci5tM3U4",
+      "number": 908,
+      "epg_id": "popular",
+      "epg_name": "La Popu",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/800/542/0/0/67035155079040.png",
+      "type": "radio"
+    },
+    {
+      "category": "Radios",
+      "name": "Cosquín Rock",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9FVC0wMS9jb3NxdWlucm9jay9tYXN0ZXIubTN1OA",
+      "number": 909,
+      "epg_id": "cosquinrock",
+      "epg_name": "Cosquín Rock",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/800/542/0/0/71941975079039.png",
+      "type": "radio"
+    },
+    {
+      "category": "Radios",
+      "name": "Cadena 3",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9FVC0wMS9DYWRlbmEzL21hc3Rlci5tM3U4",
+      "number": 910,
+      "epg_id": "Cadena3",
+      "epg_name": "Cadena 3",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/800/542/0/0/71241680072511.png",
+      "type": "radio"
+    },
+    {
+      "category": "Paraguay",
+      "name": "ABC TV Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M1ZWRzL0FCQ19UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jL0FCQ19UVl9DNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 80,
+      "epg_id": "Abc Tv",
+      "epg_name": "Abc Tv",
+      "drm_type": "clearkey",
+      "drm_key": "YzBiZWY3NTczM2IyNjQ1NDUyNDMyYmQ0ZTc2ZjM2ZjU6ZWExNjI0MzM2N2Q4MTRjMWQ1M2YxZWFmMjFmMDA1ZmY"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Canal Pro Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0NhbmFsX1BSTy9TQV9MaXZlX2Rhc2hfZW5jL0NhbmFsX1BSTy5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 81,
+      "icon": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg",
+      "drm_type": "clearkey",
+      "drm_key": "OGRmMGYxYTFlMDVlOWM2YTQzOGUyM2E4N2M5ZDA2ZWE6NWRmNzRkMzc0YTJhOGE4NzE0NjNlN2M0MzhmYTNiYTc"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Gen TV Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jL0dFTl9UVi5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 82,
+      "icon": "https://dl.dropbox.com/scl/fi/voc1uulutjp06zsd5qs5q/gen-py.png?rlkey=6rqkkc62l9c18y60r7buu4bn4&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NDllYjkyNGJhOTk4Y2E3ZmJiYWVlMzBkY2VmMWVjYjQ6NmUxMzFiMDRiMmU4NzU5OGZiNTg4YWMyMDU2NzM2OTg"
+    },
+    {
+      "category": "Paraguay",
+      "name": "La Tele Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL0xBX1RFTEVfQzQvU0FfTGl2ZV9kYXNoX2VuYy9MQV9URUxFX0M0Lm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 83,
+      "epg_id": "La Tele",
+      "epg_name": "La Tele",
+      "icon": "https://i.ibb.co/Zg861M4/latele.png",
+      "drm_type": "clearkey",
+      "drm_key": "N2M2YTQ4MWFkZjZhMDgwZWMwOTYzN2QzZjI1OTg5Y2Y6MDM2ZTM0M2Q2MzZiODIxYWI4MTgzOGRlMzg3YjYyY2I"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Mega Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL01lZ2FfVFYvU0FfTGl2ZV9kYXNoX2VuYy9NZWdhX1RWLm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 84,
+      "icon": "https://i.ibb.co/hfFmYXz/WW.jpg",
+      "drm_type": "clearkey",
+      "drm_key": "ODAxOTZkZmNiNzg1MmUyYjVlMTE2NWIzYjE3MDMwZTE6NThmYWNlOTdjOTA4NTAyZjE3NTQ5ZWI2MjQ1OWJkODA"
+    },
+    {
+      "category": "Paraguay",
+      "name": "5 Días Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzLzVfRGlhc19QWS9TQV9MaXZlX2Rhc2hfZW5jLzVfRGlhc19QWS5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 85,
+      "icon": "https://i.ibb.co/k48NKrR/5diaspy.png",
+      "drm_type": "clearkey",
+      "drm_key": "NzQ2MDkxYzUwMmVkY2YxZTlkMDAzNTM1Y2UwMWYzZTQ6MjkwODFiNWY5MmQxYTM3Yzg4ZmJiZDBlY2U1NWM4Mzk"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Noticias Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL05PVElDSUFTX1BZX0M0L1NBX0xpdmVfZGFzaF9lbmMvTk9USUNJQVNfUFlfQzQubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 86,
+      "icon": "https://dl.dropbox.com/scl/fi/1rqhr8ip2cepj3n89eh9z/noticiaspy.png?rlkey=9xapdgt9oyh5sy7pn9lkx3cb3&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "OGY2NmZlMTU3MzViMmIxYjNkNWViMzY0NmNhYTQwNWU6NDA0YjkzZmQ3YjQ5OWIxMDYxYzlhNzE0ZTFjZGIyZDA"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Paraguay TV",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL1BhcmFndWF5X1RWL1NBX0xpdmVfZGFzaF9lbmMvUGFyYWd1YXlfVFYubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 87,
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NjhhNWJkNmM1OGU2YzA1YmFjZmQxOGQzZmVlYzMxZjI6YWUyM2Y4MzU3NTEyZGYyZGZhYmNiODEwNGIwNzgxODI"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Paravisión Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1BBUkFWSVNJT05fQzQvU0FfTGl2ZV9kYXNoX2VuYy9QQVJBVklTSU9OX0M0Lm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 88,
+      "epg_id": "Canal 5 Paravision",
+      "epg_name": "Canal 5 Paravision",
+      "icon": "https://dl.dropbox.com/scl/fi/kl3rp5h3no5qhnerm0hjj/paravision.png?rlkey=l1wl9amldkm07v2lj59wqkmub&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "YmQ4ZThjOWIzMmVmMDI3ZThmZjRmZjBjZmNlODU1YTQ6MjkxOGU5ODkzYjU3MGMzZmExZjIxNWI1MmExMmNjOTE"
+    },
+    {
+      "category": "Paraguay",
+      "name": "C9N Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M1ZWRzL0M5Tl9DNC9TQV9MaXZlX2Rhc2hfZW5jL0M5Tl9DNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 89,
+      "epg_id": "C9N",
+      "epg_name": "Parana Tv",
+      "icon": "https://dl.dropbox.com/scl/fi/z09fuqglafyl8xw7bb4o9/c9n-py.png?rlkey=ixxffkxfslc3awi3ogy129ewo&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NjQ2NzAwZWViMTRjYWRmYTA1NDNhMjBjZjQxM2QzN2U6NGZjMDM3YzQ2MjAyMzc2NDYyNGQ4NDQ2NDQyY2JiY2E"
+    },
+    {
+      "category": "Paraguay",
+      "name": "SNT Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jL1NOVF9DNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 90,
+      "epg_id": "Canal 9 Snt",
+      "epg_name": "Canal 9 Snt",
+      "icon": "https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest?cb=20220908172855&path-prefix=es",
+      "drm_type": "clearkey",
+      "drm_key": "OWY2MWRjY2U4NzFjYzQxYWViMjA2ZDA1MDI4ZmMzMGE6OWY2MjQ4MTk0YTNiZjVlMzViOTZiMTk0ZTg2MjQ2OTM"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Sur TV Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1NVUl9UVl9DNC9TQV9MaXZlX2Rhc2hfZW5jL1NVUl9UVl9DNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 91,
+      "epg_id": "Sur Tv",
+      "epg_name": "Sur Tv",
+      "icon": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg",
+      "drm_type": "clearkey",
+      "drm_key": "OTg4YWU0ZTg0MDg5ODE2MDlkZWQ5ZjhiMjNiYmY3OWQ6Yjg2N2M2Njc5MWJjYWQ2N2VlMTQyYmUxZTIxYzI1Nzc"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Telefuturo Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy9URUxFRlVUVVJPX0M0Lm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 92,
+      "epg_id": "Telefuturo",
+      "epg_name": "Telefuturo",
+      "icon": "https://dl.dropbox.com/scl/fi/xnaun7uexdhmd5qsdlztc/telefuturo.png?rlkey=1xxtfxvcnruu45o4y94ot5svd&dl=1",
+      "drm_type": "clearkey",
+      "drm_key": "NWQyNzMxY2Y4YTU5YjczNDM4ZWY1OWQ4OGNkODgyYmY6M2Y0MTJmYTYzNjhiN2RiNDkwMzU4OGRlNjk1Mzc3ZTE"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Trece Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1JQQ19DNC9TQV9MaXZlX2Rhc2hfZW5jL1JQQ19DNC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 93,
+      "icon": "https://i.ibb.co/bNM6g8N/trecepy.png",
+      "drm_type": "clearkey",
+      "drm_key": "YTgwOTNjZGNiMmQ1MDRiZDM4ZjE2NzY0YmQyMWI2ZTU6YmZjZjNiMDMzYjVmMGI1YWUwMjA3NTFhNjc0NjMyNmY"
+    },
+    {
+      "category": "Paraguay",
+      "name": "TV Cámara",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jL1RWX0NhbWFyYS5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 94,
+      "epg_id": "Tv Camara",
+      "epg_name": "Tv Camara",
+      "icon": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg",
+      "drm_type": "clearkey",
+      "drm_key": "OTM1NzcwNGFkZTQ0NGRjM2IyM2JlODk4NjVhZjJmNTg6M2QwM2UwYTc5ZDhmN2I3YWEyODk3YzNkMjRiZDRiNmE"
+    },
+    {
+      "category": "Paraguay",
+      "name": "Unicanal Paraguay",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M0ZWRzL1VOSUNBTkFMX0M0L1NBX0xpdmVfZGFzaF9lbmMvVU5JQ0FOQUxfQzQubXBkP3xPcmlnaW49aHR0cHM6Ly9wb3J0YWwuYXBwLmZsb3cuY29tLmFy",
+      "number": 95,
+      "epg_id": "Unicanal",
+      "epg_name": "Unicanal",
+      "icon": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg",
+      "drm_type": "clearkey",
+      "drm_key": "NjNhMzcyOWNmZDYwZjI0ZjdlMTI2NmJlZTVlY2EwMmM6Y2I5ZWQwMjhhZjQwNjU0ZTFhYTQzOTM0ZWU1OGRiNTg"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "ESPN Premium",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0VTUE5QcmVtaXVtL2xpdmVfZGFzaF9jbGQvRVNQTlByZW1pdW0ubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 1,
+      "epg_id": "FOX Sports Premium.ar",
+      "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+      "drm_type": "clearkey",
+      "drm_key": "Zjg5NDNkMTE0ZTI1MTUxYzhhZTRmNjEyMzUxZDVhNWY6N2YzNGM5YTcwYzgzNjAyMGNiYzMyNzNjNDI3ZmYyNzc"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "ESPN Premium HD",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwNzgvaW5kZXgubTN1OA",
+      "number": 2,
+      "epg_name": "ESPN Premium HD",
+      "icon": "https://logo.iptveditor.com/espnpremium.png"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TNT Sports Premium",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1ROVFNwb3J0cy9saXZlX2Rhc2hfY2xkL1ROVFNwb3J0cy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 3,
+      "epg_id": "TNT Sports.ar",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YzI2MzcxMDc5ZTg5MjA2ZDYzZTE0NTQ4OTNlODgxYjY6YWRhYzNjM2IzNzc0ZTQxMWQ2ZTQ5NzI0ZjdlYTBlZTM"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TNT Sports HD",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwYmMvaW5kZXgubTN1OA",
+      "number": 4,
+      "epg_name": "TNT Sports HD",
+      "icon": "https://logo.iptveditor.com/tntsports.png"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TyC Sports",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1RZQ1Nwb3J0cy9saXZlX2Rhc2hfY2xkL1RZQ1Nwb3J0cy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 5,
+      "epg_id": "TYC",
+      "epg_name": "TyC Sports.ar",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png",
+      "drm_type": "clearkey",
+      "drm_key": "NTNkMGNmNmMxZDQ5YzE2ZjUxODBmODZlMTg3MGIwMGY6N2ViNjc0M2I1ZjQ0YjUyYmEyN2M4ODIyOWM4YzdhZTI"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TYC SPORTS 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL291dHB1dC9BUlIzL3NlbnNhZXZlbnRvc0Qvb3V0cHV0Lm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 6,
+      "epg_id": "TyC Sports 2.ar",
+      "epg_name": "TYC SPORTS 2",
+      "icon": "https://i.ibb.co/ZJMgxxp/tyc-sports2.png",
+      "drm_type": "clearkey",
+      "drm_key": "MDQ5ODMyODJjMmZhODE5YTA4ZmEwM2ExM2ZlNGZkYmU6NDc4MGEyNDM0MGVhOTU3YzRhMjdiMjU3ZTJiNmVjNGM"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TyC Sports Argentina",
+      "url": "aHR0cDovLzIwMC41NS4yNDQuNzU6ODAwMC9wbGF5L2EwMnMvaW5kZXgubTN1OA",
+      "number": 7,
+      "epg_name": "TyC Sports HD",
+      "icon": "https://logo.iptveditor.com/tycsports.png"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TyC Sports Internacional",
+      "url": "aHR0cHM6Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1R5Q19JbnRlcm5hY2lvbmFsL1NBX0xpdmVfZGFzaF9lbmMvVHlDX0ludGVybmFjaW9uYWwubXBk",
+      "number": 8,
+      "epg_name": "TYC SPORTS INTERNACIONAL",
+      "icon": "https://i.ibb.co/tK20mxz/tycsports.png",
+      "drm_type": "clearkey",
+      "drm_key": "NThlMWViZTc1ZDk0NGY2YTk4ZWE2N2IxYzdjMGE1NzI6MWMzMTFiMDY5ZGJjZTMxY2U4ZTYyYTZlN2UyNDMzZWI"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "ESPN Premium",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC5tcGQ/fE9yaWdpbj1odHRwczovL3BvcnRhbC5hcHAuZmxvdy5jb20uYXI",
+      "number": 109,
+      "epg_id": "FOX Sports Premium.ar",
+      "epg_name": "ESPN Premium",
+      "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
+      "drm_type": "clearkey",
+      "drm_key": "NGMyMzBkYmM3ZjZhNGJmYTZhZDBhYTczZmY3OTIzNzQ6NDE4NmE3YzJhMTVmNTkwYTkzOTk4ODZmZWFlYzQyNTc"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TNT Sports Premium",
+      "url": "aHR0cHM6Ly9pYy1leDAxLWguY3ZhdHR2LmNvbS5hci9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuYy9UTlRfU3BvcnRzX0hELm1wZD98T3JpZ2luPWh0dHBzOi8vcG9ydGFsLmFwcC5mbG93LmNvbS5hcg",
+      "number": 110,
+      "epg_id": "TNT Sports.ar",
+      "epg_name": "TNT Sports Premium",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmM4MGZhM2RhNjk2ZTUwM2Y5NDBmZGU1ZjY4MWExYzU6ZWE0NmU0ZTlmMTEzMmU4ZGQ3MWZiNzdmN2Q1NTA1OGE"
+    },
+    {
+      "category": "Pack Fútbol Argentino",
+      "name": "TyC Sports",
+      "url": "aHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAybC9pbmRleC5tM3U4",
+      "number": 111,
+      "epg_id": "TyC Sports Internacional USA",
+      "epg_name": "TyC Sports Internacional USA",
+      "icon": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png"
+    },
+    {
+      "category": "Deportes",
+      "name": "TyC Sports 2",
+      "url": "aHR0cHM6Ly9yb3V0ZXIuY2RuLnJjcy5uZXQuYXIvbW5wL3V4NWlidGprY3F3dzVxaHY2eGlyeGVtNnducGk2eHIxL291dHB1dC5tcGQ/fFJlZmVyZXI9aHR0cHM6Ly9wbGF5LnJvY3N0YXIudHYvfE9yaWdpbj1odHRwczovL3BsYXkucm9jc3Rhci50dg",
+      "number": 112,
+      "epg_id": "TyC Sports 2.ar",
+      "epg_name": "TYC SPORTS 2",
+      "icon": "https://i.ibb.co/ZJMgxxp/tyc-sports2.png"
+    },
+    {
+      "category": "🚩Informaciones",
+      "name": "Panel de Clientes",
+      "url": "aHR0cHM6Ly9zdHJlYW0ubXV4LmNvbS9YTEJheXl4ZmQyMmNxV0RzaTJzN05iRTAyY1E1ZWdlRE94NVhjYnI2YlZrTS5tM3U4",
+      "icon": "https://i.ibb.co/0BpJFw5/2025-01-16-23-05-53.png"
+    },
+    {
+      "category": "🚩Informaciones",
+      "name": "Apps Maliciosas",
+      "url": "aHR0cHM6Ly9zdHJlYW0ubXV4LmNvbS9VRm9RbHRBZWJzZjAxWDAyU3p2MU9BYTZycFYwMkltR1dlcFE1SjAybGRrWm1VQS5tM3U4",
+      "icon": "https://i.ibb.co/8gMq64DH/P2-RMJQIKUJLR5-CQQVAIAEWL5-LI.jpg"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCTy9saXZlX2Rhc2hfY2xkL0hCTy5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 1,
+      "epg_id": "HBO HD.uy",
+      "epg_name": "HBO",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZGVhZDAyM2Y3YTgxNjM0MzM5YWU2Mzk5OTBjMTUxN2E6YmE5NzAyMjJiNDQ2NmM2MWQwZGVjY2M2N2FiMzQ0NTI"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO 2",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCTzIvbGl2ZV9kYXNoX2NsZC9IQk8yLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 2,
+      "epg_id": "HBO 2 HD.uy",
+      "epg_name": "HBO 2",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "Zjk2MmI3NmMzNjkzZGFmZWUwMTE3NDYzNDRiNWU4MjM6MWFjODYzZjE2MzNkZmMyZDNkYjA2OWYzZGQ5YTgxNDU"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Plus",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1BsdXMvbGl2ZV9kYXNoX2NsZC9IQk9QbHVzLm1wZD98cmVmZXJlcj1odHRwczovL3BsYXllci5zZW5zYS5jb20uYXIvJndlYnRva2VuPTEuMA",
+      "number": 3,
+      "epg_id": "HBO Plus HD.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/800/542/0/0/10237380072165.png",
+      "drm_type": "clearkey",
+      "drm_key": "YzZmMzg2ZGI0MmMwODNhODJiODk2OTA2NGViOTkwN2Q6ZGM0OTI5NjljZTZiOWNiMzkwOWE1ZDU5YTMzZjg4ZGE"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Family",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT0ZhbWlseS9saXZlX2Rhc2hfY2xkL0hCT0ZhbWlseS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 4,
+      "epg_id": "HBO Family.uy",
+      "icon": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/800/542/0/0/7354519807335.png",
+      "drm_type": "clearkey",
+      "drm_key": "YzZmMzg2ZGI0MmMwODNhODJiODk2OTA2NGViOTkwN2Q6ZGM0OTI5NjljZTZiOWNiMzkwOWE1ZDU5YTMzZjg4ZGE"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Mundi",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT011bmRpL2xpdmVfZGFzaF9jbGQvSEJPTXVuZGkubXBkP3xyZWZlcmVyPWh0dHBzOi8vcGxheWVyLnNlbnNhLmNvbS5hci8md2VidG9rZW49MS4w",
+      "number": 5,
+      "epg_id": "HBO Mundi HD.uy",
+      "epg_name": "HBO Mundi",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmVhNWRhNDRmNDlhN2UzMGQyMWE2ZTBhMmZkZGMyMjU6MDE4NWIyMDliZjUwZTJhMWIxY2ZkNDE2ZGI1MTc3ZGU"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Pop",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1BvcC9saXZlX2Rhc2hfY2xkL0hCT1BvcC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 6,
+      "epg_id": "HBO POP HD.uy",
+      "epg_name": "HBO Pop",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZDVjZjFhZDljN2JjMGEyMDA1MTUzNWFmZjYzYTVjMDQ6MDE5ZWEwZGU1OTBhMDEzODVmNTBhZTNmZTA5MGQxOWU"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Signature",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1NpZ25hdHVyZS9saXZlX2Rhc2hfY2xkL0hCT1NpZ25hdHVyZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 7,
+      "epg_id": "HBO Signature HD.uy",
+      "epg_name": "HBO Signature",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "YmY0OGJhODllMDNiNDFlNTI4ODJhN2UxNTVmYWNkOWM6NTAxMDNkOGE4MTlkNGZhZWQ0ZTQ0ZGM2Y2Q5MDgwNjY"
+    },
+    {
+      "category": "Pack Hbo",
+      "name": "HBO Xtreme",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL0hCT1h0cmVtZS9saXZlX2Rhc2hfY2xkL0hCT1h0cmVtZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 8,
+      "epg_id": "HBO Xtreme HD.uy",
+      "epg_name": "HBO Xtreme",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "MzNkNDgyM2VkMmNhZTU1YzE5ZmEwYTdjMjBmYTQyMzU6YTY0YzRkNTVlZGIyMDA0NjgwMmU3NjMzMmM4YWE3NWU"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal TV",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaXZlcnNhbC9saXZlX2Rhc2hfY2xkL1VuaXZlcnNhbC5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 1,
+      "epg_id": "Universal HD.uy",
+      "epg_name": "Universal TV",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "N2M2Y2MzNmI5YzNmNDRmMzdiNzEzYWQ0MDQ4M2UwODU6Y2VhZWNmNzBiOTk3ODA5NjdkOTdiOWVhZjZlMmFkNWY"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal Premiere",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaVByZS9saXZlX2Rhc2hfY2xkL1VuaVByZS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 2,
+      "epg_id": "Universal Premiere.uy",
+      "epg_name": "Universal Premiere",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NGNhNDc5YmE4OTYzZjEzMmM3MDFlZWZhYTBmYjJiNWE6YmVkMjM1MTk0ZGE1ZTE4MTA4YzEyZWY4MWIzMjRhODA"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal Cinema",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNpbi9saXZlX2Rhc2hfY2xkL1VuaUNpbi5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 3,
+      "epg_id": "Universal Cinema.uy",
+      "epg_name": "Universal Cinema",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "NmE2NWU3N2ZiNWYyODM4YjJmOTdjNzc4Y2M1NzFhYzI6YmMxZjI4YjFlYzYxOWVkN2RhMjJmYzlhODBkM2EzNWQ"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal Comedy",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNvbS9saXZlX2Rhc2hfY2xkL1VuaUNvbS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 4,
+      "epg_id": "Universal Comedy.uy",
+      "epg_name": "Universal Comedy",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "OTRjZGFiODY3M2ZlMjMxYThkZTU3MjU5ZWFjNTUyMmI6MTEyNWQxNTQ2NDk3NzBjYzEyMjc3MDUzMWI4ZjhiMzA"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal Crime",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaUNyaS9saXZlX2Rhc2hfY2xkL1VuaUNyaS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 5,
+      "epg_id": "Universal Crime.uy",
+      "epg_name": "Universal Crime",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "N2FkMWNmZThlZGJjMzViNWJhYjFhNjZhNWNlMjk4YjM6MjU3OTRhZTFkZjFlOTkwOGQ0M2ExMDI0ODFlN2QzMTE"
+    },
+    {
+      "category": "Pack Universal",
+      "name": "Universal Reality",
+      "url": "aHR0cHM6Ly9jZG4uc2Vuc2EuY29tLmFyL2xpdmUvZWRzL1VuaVJlYS9saXZlX2Rhc2hfY2xkL1VuaVJlYS5tcGQ/fHJlZmVyZXI9aHR0cHM6Ly9wbGF5ZXIuc2Vuc2EuY29tLmFyLyZ3ZWJ0b2tlbj0xLjA",
+      "number": 6,
+      "epg_id": "Universal Reality.uy",
+      "epg_name": "Universal Reality",
+      "icon": "https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true",
+      "drm_type": "clearkey",
+      "drm_key": "ZGZiY2JlNjU2YjM0ODg0ZDhmOGRjYzU3ZDJkYzUxZjg6ZDNlMmMwMzAwM2I0NDNjY2VkZDMwZDY0NDJmYmRkNDA"
+    }
+  ]
+}
+
+
+#EXTINF:-1 tvg-name="Señales de Youtube" group-title="Playlists Embebidas" type="playlist" content-type="playlist",Señales de Youtube
+https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr%20channels.m3u
+
+#EXTINF:-1 tvg-name="Playlist" group-title="Playlists Embebidas" type="playlist" content-type="playlist",Premium
+https://cplus.lat/Teleplay/Juridico/Listas/Premium/procesos.m3u
+
+#EXTINF:-1 tvg-name="Respaldo" group-title="Playlists Embebidas" type="playlist" content-type="playlist",Argentina Respaldo
+https://cplus.lat/Teleplay/Juridico/Listas/Premium/Argentinasoporte.m3u
+
+#EXTINF:-1 tvg-name="Señales de Youtube" group-title="Playlists Embebidas" type="playlist" content-type="playlist",mayoral
+https://pastefy.app/i2n4tLKn/raw
