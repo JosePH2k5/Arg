@@ -13,8 +13,8 @@ https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|ori
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="" type="channel",ESPN ar cdn-py p-ar
-https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="" type="channel",ESPN ar cdn-py p-ar-NO
+https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|origin=https://portal.app.flow.com.ar  
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
@@ -26,6 +26,8 @@ https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|ori
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="" type="channel",ESPN ar cdn-py p-py
 https://cdn-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|origin=https://portal.app.flow.com.py
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="" type="channel",ESPN PY cdn w-py
@@ -34,7 +36,7 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd?|ori
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s37NZCT/espn-1B.png" group-title="ESPN" ch-number="" type="channel",ESPN UY cdn
-https://cdn-py.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
 
 #######ESPN#######
 
