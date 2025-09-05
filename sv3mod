@@ -503,3 +503,18 @@ https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 #KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
 https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZLz3DM/Hustler-Mature.png" group-title="Adulto",Hustler Mature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
+https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch35Dz19/Latin-Angels.png" group-title="Adulto",Latin Angels
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2937577cdfafa48badfbc60483470eb1:f7e9200f35b2e7fc29adc14872db4822
+https://dish.akamaized.net/Content/DASH/Live/channel(latinangelgirlshd)/variant.mpd
