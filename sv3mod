@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz"
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -164,6 +164,11 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_U
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="108" type="channel",ESPN Premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Deportes", ESPN 🇨🇴
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
@@ -193,11 +198,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
-https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
@@ -233,6 +233,9 @@ https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 #EXTINF:-1 tvg-id="NBA TV.ar" tvg-name="NBA TV" tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="Deportes" ch-number="119" type="channel",NBA TV
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd
+
+#EXTINF:0 tvg-id="BeinSportsN.HD1" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/768px-Bein_Sports_Logo.svg.png" group-title="Deportes",BEIN SPORTS Ñ HD
+http://181.78.106.127:9000/play/ca039/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
