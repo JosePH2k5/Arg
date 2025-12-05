@@ -558,21 +558,45 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
 #EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto" ch-number="1000" type="channel",Playboy TV (18+)
-https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A_wl/Playboy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
 #EXTINF:-1 tvg-id="Sextreme.br.uy" tvg-name="Sextreme (18+)" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="Adulto" ch-number="1001" type="channel",Sextreme (18+)
-https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A_wl/Sextreme.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
 #EXTINF:-1 tvg-id="Venus.uy" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel",Venus (18+)
-https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A_wl/Venus.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZLz3DM/Hustler-Mature.png" group-title="Adulto",Hustler Mature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
-https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc_2A_wl/Hustler.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://telefullhd.com/imagenes2/sextreme.png" group-title="ADULTOSADULTOS",SEXTREME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_2A_wl/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://telefullhd.com/imagenes2/venus.png" group-title="ADULTOSADULTOS",VENUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A_wl/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://telefullhd.com/imagenes/playboy.png" group-title="ADULTOSADULTOS",PLAYBOY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_2A_wl/Playboy.mpd
+
+#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="ADULTOSADULTOS",MYCAM1
+https://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="ADULTOSADULTOS",MYCAM2
+https://cdn.adultiptv.net/bigass.m3u8
