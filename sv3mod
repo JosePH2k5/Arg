@@ -183,15 +183,22 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A_wl/TNT_Sp
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+
+
+EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png" group-title="⚽DEPORTES ", FOX SPORTS PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="108" type="channel",ESPN Premium
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A_wl/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZoMge-dHp2cYNnVUJPPZmyMo56Er7ptsr7g&s" group-title="⚽DEPORTES ", TNT SPORT ARGENTINA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A_wl/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+
+
+
 
 
 
