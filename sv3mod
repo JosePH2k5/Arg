@@ -357,7 +357,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fo
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium F
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
-
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Deportes",TyC Sports
+http://190.104.67.8:234/play/a06x/index.m3u8
 
 ##########
 ###FLOW###
@@ -405,11 +406,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=357440
 ##########
 
 
-#EXTINF:-1 tvg-id=ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Argentina",ESPN PREMIUM tvm
-https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
+###EXTINF:-1 tvg-id=ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Argentina",ESPN PREMIUM tvm
+##https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT SPORTS PREMIUM tvm
-https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8 
+###EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT SPORTS PREMIUM tvm
+##https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
 
 ##########
 #190.104.67.8:234#
@@ -429,8 +430,11 @@ http://190.104.67.8:234/play/a06z/index.m3u8
 ##########
 
 
-#EXTINF:-1 tvg-id="ESPNPremium1.ar" tvg-logo="https://i.ibb.co/xdZrSq0/espnpremium.png" group-title="Deportes url",ESPN Premium CHILE
-hhttp://190.108.89.228:8000/play/a0cy/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id=ESPNPremium1.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN PREmiun CHILE
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
 
 
 ###########################################################
