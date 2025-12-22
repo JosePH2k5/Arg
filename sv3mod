@@ -422,7 +422,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=357440
 http://190.104.67.8:234/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/fVLRL2YC/TNTsports.png" group-title="Deportes url",TNT Sports 1
-http://190.104.67.8:234/play/a06z/index.m3u8
+http://200.80.230.123:8000/play/a0bk/index.m3u8
 
 
 ##########
@@ -531,6 +531,10 @@ https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 
 
 
