@@ -200,6 +200,14 @@ Fuera de Servicio.....Cuenta Suspendida
 #EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz"
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="", MAUSSAN TV
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="TV Pública.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina" ch-number="7" type="channel",TV Pública
@@ -849,13 +857,6 @@ https://cdn.cvattv.com.ar/live/c7eds//Telemundo_HD/SA_Live_dash_enc_C/Telemundo_
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-id="TV Chile.uy" tvg-name="TV Chile" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo" ch-number="622" type="channel",TV Chile
 https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="", MAUSSAN TV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
-https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
 
 
 
