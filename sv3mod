@@ -266,9 +266,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fo
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium F
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.ibb.co/ks1nJrZC/tyc-2.png" group-title="Deportes",TyC Sports
-http://190.104.67.8:234/play/a06x/index.m3u8
-
 ##########
 ###FLOW###
 ##########
@@ -464,26 +461,12 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="124",DSports
-http://38.56.98.38:8050/play/a06p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports 2
-http://201.230.121.85:8000/play/a0yv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="126",DSports +
-http://209.45.81.84:8000/play/a03d
-
-
-
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://38.199.6.1:17001/play/a0d0/index.m3u8
 
 #EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
-#EXTINF:-1 tvg-id="DSPORTS2" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports2.png" group-title="Deportes", DSPORTS 2
-http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9904
 
 #EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
@@ -823,7 +806,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_C/Eventos_2_H
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWFKyX/52687301125549.png" group-title="Eventos Flow HD" ch-number="5" type="channel",EVENTOs 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNtWFKyX/52687301125549.png" group-title="Eventos Flow HD" ch-number="5" type="channel",EVENTOS 3
 https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd
 
 
