@@ -216,6 +216,11 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQpnGZ15/tycsports-int.png" group-title="" ch-number="" type="channel",TYC SPORTS INT
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="ESPN" ch-number="21" type="channel",ESPN
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
@@ -813,17 +818,17 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Eventos Flow HD" ch-number="141" type="channel",Eventos 1 Uy
+#EXTINF:-1 tvg-id="Eventos.UY" tvg-logo="https://i.ibb.co/YLjMyFx/evento30hd.png?raw=true" group-title="Eventos Flow HD" ch-number="141" type="channel",Eventos 1 Uy
 https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_C/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
-#EXTINF:-1 tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Eventos Flow HD" ch-number="142" type="channel",Eventos 2 Uy
+#EXTINF:-1 tvg-id="Eventos2.UY" tvg-logo="https://i.ibb.co/C0xQZQ3/evento230hd.png?raw=true" group-title="Eventos Flow HD" ch-number="142" type="channel",Eventos 2 Uy
 https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
-#EXTINF:-1 tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Eventos Flow HD" ch-number="143" type="channel",Eventos 3 Uy
+#EXTINF:-1 tvg-id="Eventos3.UY" tvg-logo="https://i.ibb.co/02hhVcv/evento330hd.png?raw=true" group-title="Eventos Flow HD" ch-number="143" type="channel",Eventos 3 Uy
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd
 
 
@@ -842,7 +847,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc_C/Eventos2_PY.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB8Tgvz/flow-music-1.png" group-title="Eventos Flow HD" ch-number="1" type="channel",Conect Music 1
-https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_C/Flow_Music_1.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_C/Flow_Music_XP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
