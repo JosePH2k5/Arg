@@ -180,6 +180,27 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="Deportes" ch-number="107" type="channel",ESPN 7
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
+
+
+###### FLOW TOK ######
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium FT
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bc80fa3da696e503f940fde5f681a1c5":"ea46e4e9f1132e8dd71fb77f7d55058a"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 108" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports HD FT
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3574401799
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQpnGZ15/tycsports-int.png" group-title="" ch-number="" type="channel",TYC INT
@@ -215,24 +236,6 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.
 ##https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
 
-###### FLOW TOK ######
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium FT
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bc80fa3da696e503f940fde5f681a1c5":"ea46e4e9f1132e8dd71fb77f7d55058a"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-#EXTINF:-1 108" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports HD FT
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3574401799
-
-
 
 ###### TRIMI #####
 
@@ -256,18 +259,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=357440
 
 ##EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT SPORTS PREMIUM tvm
 ##https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
-
-##########
-## cdnlatam ##
-##########
-
-
-
-#EXTINF:-1 tvg-id="ESPNPremium1.ar" tvg-logo="https://i.ibb.co/xdZrSq0/espnpremium.png" group-title="Deportes url",ESPN Premium cdn
-https://cdnlatam.sysedge-delivery.com/ESPN_PREMIUM_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://i.ibb.co/fVLRL2YC/TNTsports.png" group-title="Deportes url",TNT Sports cdn
-https://cdnlatam.sysedge-delivery.com/TNT_SPORTS_HD/index.m3u8
 
 
 ##########
