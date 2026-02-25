@@ -211,56 +211,13 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2
 
 ###################################
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium mb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://mplus.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTINF:0 CUID="1366" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png" group-title="",Espn Premiun
+http://190.7.19.197:232/play/a038/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium ml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://mplus.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+#EXTINF:0 CUID="1367" tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.ibb.co/hxnmtt7S/lfpargentina.png" group-title="",Tnt Sport
+http://190.7.19.197:232/play/a037/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium mb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://mplus.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium ml
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://mplus.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium lb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/bpk-tv/ESPNPremium/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTINF:-1 ch-number="108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png" group-title="Deportes", ESPN Premium ll
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium lb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/bpk-tv/TNTSports/default/index.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTINF:-1 ch-number="109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2181/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Deportes", TNT Sports Premium ll
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
-https://lilac01.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://webclient.antinaplayplus.com.ar/
-
-
-########################################
+####################################
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -344,6 +301,22 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1 
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ef5c825da48fbeeaa30e8f60ce44bd:982d1273c4a1cf6ddb8b2306a025d2f7
+#EXTINF:-1 ch-number="110" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="Deportes", ESPN Bo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN-Bolivia/live_dash_cld/ESPN-Bolivia.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbf6811ca9cccba8e73817b3c1e03433:27a8d785579f23dde39ac1937cf7bd53
+#EXTINF:-1 ch-number="118" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png" group-title="Deportes", ESPN 2 Bo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN2Bolivia/live_dash_cld/ESPN2Bolivia.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="FOX Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes" ch-number="111" type="channel",FOX Sports
@@ -358,6 +331,31 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
 #EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="FOX Sports 3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes" ch-number="113" type="channel",FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
+
+
+##GH-2026##
+================================================================================
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",GH 24 Horas
+https://vrio-cloud.canal6.eu.org/memfs/1dc63741-782a-4539-a6c2-b7c2aa9031dd.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam1
+https://vrio-cloud.canal6.eu.org/memfs/937a42aa-5a92-4692-8948-376a5855239f.m3u8
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam2
+https://vrio-cloud.canal6.eu.org/memfs/bd936784-a454-4d03-b261-9a2360e77c67.m3u8
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam3
+https://vrio-cloud.canal6.eu.org/memfs/f6f12e01-77f0-4945-8c42-dfbf7af1fe1c.m3u8
+
+
+#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Multicam
+https://vrio-cloud.canal6.eu.org/memfs/fd9d9a00-66c9-4189-8a10-82c4c31d4b6b.m3u8
+
+=================================================================================
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2
