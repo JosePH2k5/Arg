@@ -322,25 +322,58 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3H
 
 
 ##GH-2026##
+
 ================================================================================
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",GH 24 Horas
-https://vrio-cloud.canal6.eu.org/memfs/1dc63741-782a-4539-a6c2-b7c2aa9031dd.m3u8
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam1
-https://vrio-cloud.canal6.eu.org/memfs/937a42aa-5a92-4692-8948-376a5855239f.m3u8
+#EXTINF:-1 tvg-logo="https://www.ciudad.com.ar/resizer/v2/gran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg?auth=dd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11&width=1023" group-title="GH", 24HS
+https://cdn-content-cf2-us.latamlive.net/GH24_ENC_LIVE/index.m3u8
 
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam2
-https://vrio-cloud.canal6.eu.org/memfs/bd936784-a454-4d03-b261-9a2360e77c67.m3u8
+#EXTINF:-1 tvg-logo="https://www.ciudad.com.ar/resizer/v2/gran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg?auth=dd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11&width=1023" group-title="GH", CAM 1
+https://cdn-content-cf2-us.latamlive.net/GH_CAM_1_ENC_LIVE/index.m3u8
 
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Cam3
-https://vrio-cloud.canal6.eu.org/memfs/f6f12e01-77f0-4945-8c42-dfbf7af1fe1c.m3u8
+#EXTINF:-1 tvg-logo="https://www.ciudad.com.ar/resizer/v2/gran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg?auth=dd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11&width=1023" group-title="GH", CAM 2
+https://cdn-content-cf2-us.latamlive.net/GH_CAM_2_ENC_LIVE/index.m3u8
 
 
-#EXTINF:-1 ch-number="" tvg-id="" tvg-logo="" group-title="",Multicam
-https://vrio-cloud.canal6.eu.org/memfs/fd9d9a00-66c9-4189-8a10-82c4c31d4b6b.m3u8
+#EXTINF:-1 tvg-logo="https://www.ciudad.com.ar/resizer/v2/gran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg?auth=dd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11&width=1023" group-title="GH", CAM 3
+https://cdn-content-cf2-us.latamlive.net/GH_CAM_3_ENC_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ciudad.com.ar/resizer/v2/gran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg?auth=dd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11&width=1023" group-title="GH", MULTICAM
+https://cdn-content-cf2-us.latamlive.net/GHMULTICAMARA_ENC_LIVE/index.m3u8
+
+================================================================================
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/1JwvpXdG/Portada-GH-2026-1200x675.jpg" group-title="GH GENERACION DORADA",CAM 24 HS
+https://cablered.iptvperu.tv:1936/stream/gh24hs/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GH AR",CAM 24 HS OP2
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749367.ts
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/1JwvpXdG/Portada-GH-2026-1200x675.jpg" group-title="GH GENERACION DORADA",CAMARA 1
+https://artemisa1.cd-latam.com:1936/stream/ghcam1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GH AR",CAM 1 OP2
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749368.ts
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/1JwvpXdG/Portada-GH-2026-1200x675.jpg" group-title="GH GENERACION DORADA",CAMARA 2
+https://artemisa1.cd-latam.com:1936/stream/ghcam2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 2" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GH AR",CAM 2 OP2
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749369.ts
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/1JwvpXdG/Portada-GH-2026-1200x675.jpg" group-title="GH GENERACION DORADA",CAMARA 3
+https://artemisa1.cd-latam.com:1936/stream/ghcam3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GRAN HERMANO CAM 3" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GH AR",CAM 3 OP3
+http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.ts 
+
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/1JwvpXdG/Portada-GH-2026-1200x675.jpg" group-title="GH GENERACION DORADA",MULTI CAMARA
+https://cablered.iptvperu.tv:1936/stream/ghmulticam/playlist.m3u8
+
+
 
 =================================================================================
 
