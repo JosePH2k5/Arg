@@ -203,7 +203,7 @@ https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
-#EXTINF:-1 ch-number="11" tvg-id="AMERICA SPORTS.ar" tvg-logo="https://i.postimg.cc/fWrf82xx/Logo-2.png" group-title=", América Sports
+#EXTINF:-1 ch-number="11" tvg-id="AMERICA SPORTS.ar" tvg-logo="https://i.postimg.cc/fWrf82xx/Logo-2.png" group-title="Deportes", América Sports
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_C/America_Sports.mpd	
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
