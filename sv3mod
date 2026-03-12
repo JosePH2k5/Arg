@@ -52,6 +52,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/71/CH_LOGO/60/40/0/0/5742614807226.png" group-title="FLOW OPCION 3" ,DESACTIVA MI LISTA DE TUS LISTAS O COMPARTO TODAS TUS LISTAS SAO
+https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/71/CH_LOGO/60/40/0/0/5742614807226.png" group-title=" ,CN
 https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd
 
