@@ -2,51 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U  refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz"
 
 
@@ -810,3 +765,22 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="Chaco",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+
+
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCASFV_D__27.1LRK471CATA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="CC Chaco",Canal Once - 11 TV - Machagai - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCMACHA___11_CANALONCE_
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISUNOTV.png" group-title="CC Chaco",Somos Uno - 26.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__26.1SOMOSUNO__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIURES.png" group-title="CC Chaco",Ciudad TV - 27.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.1CIUDADTV__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----NG.png" group-title="CC Chaco",NG Federal - 27.2TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.2NGFEDERAL_
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICC2802.png" group-title="CC Chaco",CHTV - 29.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__29.1CHTV______
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRESIST.png" group-title="CC Chaco",Resistencia - 90.3 TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS_90.3_RESISTENCI
+
+
+
